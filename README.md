@@ -129,9 +129,9 @@ https://partner.microsoft.com/dashboard/registration: https://partner.microsoft.
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%203.%20Enter%20Activation%20Code%20Popup.png">
 
-> NOTE : A Pop up will appear if its your first time [Enter Activation Code] or Click + Button that Says "Actions" and Click Enter Activation Code
-
 > NOTE : You wont have a Activation Code That will be Part 3. How to your Setup Xbox
+
+> NOTE : A pop up will appear if its your first time [Enter Activation Code] if no popup appears Select + Button that Says "Actions" and Click Enter Activation Code
 
 #### ---- A. Select Actions Buttin or +
 
@@ -143,9 +143,9 @@ https://partner.microsoft.com/dashboard/registration: https://partner.microsoft.
 
 https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
-## or
+### or
 
-Link : https://aka.ms/activatexbox
+https://aka.ms/activatexbox
 
 
 #### 2. How to Get your Activation Code
