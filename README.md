@@ -31,20 +31,23 @@
 
 <img width="500" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%20-%203.%20Registering%20Account.png"> 
 
-#### 4. Create Account : https://partner.microsoft.com/dashboard/registration
-
 #### 4. 1. Select "No account? Create one!"
+
+#### 4. 1. Create Account : https://partner.microsoft.com/dashboard/registration
 
 <img width="500" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/4.%20Create%20Account.png">
 
 #### or
 
 #### 5. Logging In
-	1. Asking you to Sign into Account or Create an Account
+
+<img width="500" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/5.%20Login.png">
+
+#### 5. 1. Asking you to Sign into Account or Create an Account
 	
-	2. Login if you have an existing account 
+#### 5. 2. Login if you have an existing account 
 	
-	3. Next Step
+#### 5. 3. Next Step
 		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/5. Login or Create Account/]
 
 6. Registration Account Info - Account Type
