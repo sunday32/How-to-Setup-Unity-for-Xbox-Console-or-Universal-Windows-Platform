@@ -55,19 +55,19 @@
 
 #### 6. 3. Selecting Account Type
 
-#### 6. 4. A. Individual = $19.99
+#### 6. A. Individual = $19.99
 
-#### 6. 5. B. Company = $99.99
+#### 6. B. Company = $99.99
 
-#### 6. 6. Select Individual or Company
+#### 6. 4. Select Individual or Company
 
-#### 6. 7. Fill out your personal information below
+#### 6. 5. Fill out your personal information below
 
-#### 6. 8. Select Next
+#### 6. 6. Select Next
 
 > NOTE : System may ask you to resign in to protect sensitive information
  
-#### 6. 9. Resignin If your Still Loginin Continue to Next Step
+#### 6. 7. Resignin If your Still Loginin Continue to Next Step
 
 ## 7. Registration - Payment
 
