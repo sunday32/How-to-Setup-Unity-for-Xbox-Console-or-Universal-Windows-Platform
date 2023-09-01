@@ -97,9 +97,10 @@
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/8.%20B.%20Registration%20-%20Payment%20-%20Complete.png">
 
 
-#### 9. Dashboard
-#### 9. 1. Once you are done you will see your dashboard : https://partner.microsoft.com/en-us/dashboard/home
+## 9. Dashboard
 
 <img width="750" src=""><img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/9.%20Dashboard.png">
-	
- #### 9. 2. Keep the dashboard open to Registering and Activating your Xbox Console
+
+#### 9. 1. Once you are done you will see your dashboard : https://partner.microsoft.com/en-us/dashboard/home
+
+#### 9. 2. Keep the dashboard open to Registering and Activating your Xbox Console
