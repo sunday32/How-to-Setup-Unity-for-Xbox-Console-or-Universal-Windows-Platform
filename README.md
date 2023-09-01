@@ -37,7 +37,7 @@
 
 ### 4. Select "No account? Create one!"
 
-#### 1. Create Account if you do not have one
+#### - 1. Create Account if you do not have one
 
 https://partner.microsoft.com/dashboard/registration
 
@@ -170,3 +170,5 @@ https://aka.ms/activatexbox
 > NOTE - This only happens once so if you install Developer Kit Launching it again would not reset anything
 
 > NOTE - You will have to sign in twice once in Retail Mode and once in Developer Mode and any Account can be used in Testing Mode
+
+#### - 1. Setting up your Xbox
