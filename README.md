@@ -228,6 +228,8 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%204.Entering%20Activation%20Code.png">
 
+#### ---- B. Select Submit
+
 > NOTE : If your lost or cant find it here are the direct links
 
 https://partner.microsoft.com/en-us/xboxconfig/devices/index
@@ -236,12 +238,21 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 https://aka.ms/activatexbox
 
+#### - 5. Console Activated
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%205.%20Console%20Activated.png">
+
+#### ---- A. Select Switch and Restart
+
+#### - 6. Console Added
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%206.%20Console%20Added.png">
+
+> NOTE : Once you have successfully added the xbox you will only be using your Dashboard to either add more consoles for testing or uploading your finished project for the public.
 
 
 
+#### 4. 
 
-
-
-
-
+Next ill show you how to Connect to the xbox directly using Unity or Visual Studios / or / Manuelly Using Xbox Local Link with Visual Studios
 
