@@ -250,9 +250,19 @@ https://aka.ms/activatexbox
 
 > NOTE : Once you have successfully added the xbox you will only be using your Dashboard to either add more consoles for testing or uploading your finished project for the public.
 
+### 4. Setting up Remote Access Login on Console
 
+#### - 1. Developer Screen
 
-#### 4. 
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%201.%20Developer%20Screen.jpg">
+
+#### - 2. Select Remote Access Button
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%202.%20Remote%20Access.png"
+
+#### - 3. Console Added
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%206.%20Console%20Added.png"
 
 Next ill show you how to Connect to the xbox directly using Unity or Visual Studios / or / Manuelly Using Xbox Local Link with Visual Studios
 
