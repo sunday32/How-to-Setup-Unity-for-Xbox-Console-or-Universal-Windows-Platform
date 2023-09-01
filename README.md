@@ -158,3 +158,15 @@ https://aka.ms/activatexbox
 
 
 ## 3. How to your Setup Xbox
+
+### 1. Setting up your Xbox
+
+> WARNING - Console May Cause a Fail when First Switching over to Developer Mode and Reseting Console May Be Required!
+
+> NOTE - Dont worry you have an option to keep games and apps it only resets your "Accounts" and "Settings"
+
+> NOTE - Once in Developer Mode No Games will be shawn because your in Developer Mode and only the games you you created and imported are allowed once you exit Developer Mode Games will be back on your console
+
+> NOTE - This only happens once so if you install Developer Kit Launching it again would not reset anything
+
+> NOTE - You will have to sign in twice once in Retail Mode and once in Developer Mode and any Account can be used in Testing Mode
