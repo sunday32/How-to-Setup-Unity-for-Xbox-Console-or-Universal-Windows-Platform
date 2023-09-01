@@ -254,7 +254,7 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%201.%20Developer%20Screen.jpg">
 
-#### - 2. Select Remote Access Button
+#### - 2. Select Settings Under Remote Access Button
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%202.%20Remote%20Access.png">
 
