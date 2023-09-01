@@ -218,6 +218,26 @@ https://aka.ms/activatexbox
 
 > EXAMPLE = WDRJ46
 
+#### - 4. Entering Activation Code
+
+#### ---- A. Back to Dashboard/Games and Apps/Xbox Development Consoles
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%203.%20Enter%20Activation%20Code%20Popup.png">
+
+### or
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%204.%20Action%20Method.png">
+
+> NOTE : If your lost or cant find it here are the direct links
+
+https://partner.microsoft.com/en-us/xboxconfig/devices/index
+
+#### or
+
+https://aka.ms/activatexbox
+
+
+
 
 
 
