@@ -4,13 +4,13 @@
 
 ## 1. Get your License First
 ---------------------------------------------------------------------------------
-	1.Getting your Microsoft Partner Center Account 
-		Note : "Only $20 USD Membership Last Forever Only 1 Time Payment!"
-		Note : Why is this needed it gives you Developer Access on your Xbox and Lets you Place your [UWP] Universal Windows Platform or Game App on the [Xbox] Microsoft Store!
+1.Getting your Microsoft Partner Center Account 
+	Note : "Only $20 USD Membership Last Forever Only 1 Time Payment!"
+	Note : Why is this needed it gives you Developer Access on your Xbox and Lets you Place your [UWP] Universal Windows Platform or Game App on the [Xbox] Microsoft Store!
 
-	2. Visiting Xbox Registration Site 
-		Link : https://www.xbox.com/en-US/publish
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/2. Visiting Xbox Registration Site/]
+2. Visiting Xbox Registration Site 
+	Link : https://www.xbox.com/en-US/publish
+	<img width="500" src="">
 
 	3. Selecting Membership Type
 		Note : There will be 2 Types of Membership Types ID@XBOX or Creator Program
