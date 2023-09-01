@@ -63,9 +63,9 @@
 
 #### - 3. Selecting Account Type
 
-#### -- A. Individual = $19.99
+#### ---- A. Individual = $19.99
 
-#### -- B. Company = $99.99
+#### ---- B. Company = $99.99
 
 #### - 4. Select Individual or Company
 
