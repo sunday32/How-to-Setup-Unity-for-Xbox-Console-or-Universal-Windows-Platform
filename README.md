@@ -114,25 +114,25 @@
 
 #### - 1. Select Apps and Games
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%201.%20Select%20Apps%20and%20Games.png">
 
 #### - 2. Select Xbox Development Console
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%202.%20Select%20Xbox%20Development%20Console.png">
 
 #### - 3. Enter Activation Code Popup
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%203.%20Enter%20Activation%20Code%20Popup.png">
 
 > NOTE : A Pop up will appear if its your first time [Enter Activation Code] or Click + Button that Says "Actions" and Click Enter Activation Code
 
-#### ---- A. Select Actions Buttin or +
+> NOTE : You wont have a Activation Code That will be Part 3. How to your Setup Xbox
 
-<img width="750" src="">
+#### ---- A. Select Actions Buttin or +
 
 #### ---- B. Select Enter Activation Code
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%204.%20Action%20Method.png">
 
 > NOTE : If your lost or cant find it here are the direct links
 
@@ -145,9 +145,9 @@ Link : https://aka.ms/activatexbox
 
 #### 2. How to Get your Activation Code
 
-> NOTE : Example Below of Activation Code
+> NOTE : Example Below of Activation Code in Part 3. How to your Setup Xbox
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/2.%20How%20to%20Get%20your%20Activation%20Code.png">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
