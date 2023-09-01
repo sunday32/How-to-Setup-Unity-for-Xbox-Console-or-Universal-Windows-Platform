@@ -3,19 +3,20 @@
 # How to Setup Unity for Xbox Console or Universal Windows Platform
 
 ## 1. Get your License First
+
 	#### 1.Getting your Microsoft Partner Center Account 
 		Note : "Only $20 USD Membership Last Forever Only 1 Time Payment!"
-		Note : Why is this needed it gives you Developer Access on your Xbox and Lets you Place your [UWP] Universal Windows Platform or Game App on the [Xbox] Microsoft Store!
+		Note : Why is this needed it gives you Developer Access on your Xbox and Lets you Place your UWP Universal Windows Platform or Game App on the Xbox Microsoft Store!
 
 	2. Visiting Xbox Registration Site 
 		Link : https://www.xbox.com/en-US/publish
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/2. Visiting Xbox Registration Site/]
+		Image Reference Inside of Folder = /Microsoft/1.Get your License First/2. Visiting Xbox Registration Site/
 
 	3. Selecting Membership Type
 		Note : There will be 2 Types of Membership Types ID@XBOX or Creator Program
 		Note : Today will be using Creator Program because its used for Single Person, Small Group, Small Business, Student, Hobbyist or Just Trying to Learn. Dont think about it to much about it! The "ID@Xbox" is for when your a Business but i read Documentation that this method might now work for "ID@Xbox" Program if you follow the same steps but ive never had a ID@XBOX Account so LMK if you get access to that and this works :)
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/3. A. Selecting Membership Type - ID@XBOX/]
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/3. B. Selecting Membership Type - Creator Program/]
+		Image Reference Inside of Folder = /Microsoft/1.Get your License First/3. A. Selecting Membership Type - ID@XBOX/
+		Image Reference Inside of Folder = /Microsoft/1.Get your License First/3. B. Selecting Membership Type - Creator Program/
 	
 	4. Select 
 		A. "Creator Program"
