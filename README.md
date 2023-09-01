@@ -2,6 +2,7 @@
 
 # How to Setup Unity for Xbox Console or Universal Windows Platform
 
+
 ## 1. Get your License First
 
 #### 1. Getting your Microsoft Partner Center Account
@@ -11,9 +12,11 @@
 
 > IMPORTANT : Why is this needed it gives you Developer Access on your Xbox and Lets you upload your [UWP] Universal Windows Platform or Game App on the [Xbox Store] Microsoft Store!
 
+
 ## 2. Visiting Microsoft Registration Site - https://www.xbox.com/en-US/publish
 	
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/2.%20Visiting%20Xbox%20Registration%20Site.png">
+
 
 ## 3. Selecting Membership Type
 > NOTE : There will be 2 Types of Membership Types ID@XBOX or Creator Program
@@ -31,17 +34,21 @@
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%20-%203.%20Registering%20Account.png"> 
 
+
 ## 4. Select "No account? Create one!"
 
 #### 4. 1. Create Account : https://partner.microsoft.com/dashboard/registration
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/4.%20Create%20Account.png">
 
+
 ## or
+
 
 ## 5. Login : https://partner.microsoft.com/dashboard/registration
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/5.%20Login.png">
+
 
 ## 6. Registration - Account Info - Account Type
 
@@ -67,7 +74,8 @@
 
 > NOTE : System may ask you to resign in to protect sensitive information
  
-#### 6. 7. Resignin If your Still Loginin Continue to Next Step
+#### 6. 7. Resignin If your Still Login Continue to Next Step
+
 
 ## 7. Registration - Payment
 
