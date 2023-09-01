@@ -39,20 +39,18 @@
 
 #### or
 
-#### 5. Logging In
+#### 5. Logging In : https://partner.microsoft.com/dashboard/registration
 
 <img width="500" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/5.%20Login.png">
 
-#### 5. 1. Asking you to Sign into Account or Create an Account
-	
-#### 5. 2. Login if you have an existing account 
-	
-#### 5. 3. Next Step
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/5. Login or Create Account/]
+#### 6. Registration Account Info - Account Type
 
-6. Registration Account Info - Account Type
-	1. Once you Login you will have to setup your Account - Country and Account Type
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/6. Registration - Account Info - Account Type/]
+<img width="500" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/6.%20Registration%20-%20Account%20Info%20-%20Account%20Type.png">
+
+#### 6. 1. Once you Login you will have to setup your Account - Country and Account Type
+<img width="500" src="">
+
+		
 	
 	2. Selecting Account Type
 		A. Individual = $19.99
@@ -64,14 +62,14 @@
 7. Registration - Might Have to Sign In Again
 	Note : Microsoft may ask you to sign in again just sign back in and continue	
 	[Image Reference Inside of Folder = /Microsoft/1.Get your License First/7. Registration - Might Have to SIgn In Again]
-	
+	<img width="500" src="">
 
 9. Registration - Account Info - Account Type - Individual - Company
 	1. Fill out your personal information
 	
 	2. Select Add A New Payment Method
  			[Image Reference Inside of Folder = /Microsoft/1.Get your License First/8. Registration - Payment - Select Add A New Payment Method]
-	
+	<img width="500" src="">
 	3. Fill out your Banking Information
 	
 9.Registration - Payment
@@ -82,9 +80,9 @@
 			[Image Reference Inside of Folder = /Microsoft/1.Get your License First/9. A. Registration - Payment]
 		B.Go to Dashboard
 			[Image Reference Inside of Folder = /Microsoft/1.Get your License First/9. B. Registration - Payment - Complete]
-
+<img width="500" src=""><img width="500" src="">
 10. Dashboard
 	1. Once you are done you will see your dashboard
 		Link : https://partner.microsoft.com/en-us/dashboard/home
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/10. Dashboard]
+		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/10. Dashboard]<img width="500" src="">
 	2. Keep the dashboard open to Registering and Activating your Xbox Console
