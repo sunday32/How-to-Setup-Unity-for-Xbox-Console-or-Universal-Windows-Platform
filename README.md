@@ -5,31 +5,37 @@
 ## 1. Get your License First
 ---------------------------------------------------------------------------------
 1. Getting your Microsoft Partner Center Account
-	> NOTE : Only $20 USD Membership Last Forever Only 1 Time Payment!
+	> NOTE : Cost $20 USD Membership Last Forever Only 1 Time Payment!
 
-	> IMPORTANT : Why is this needed it gives you Developer Access on your Xbox and Lets you Place your [UWP] Universal Windows Platform or Game App on the [Xbox] Microsoft Store!
+	> IMPORTANT : Why is this needed it gives you Developer Access on your Xbox and Lets you upload your [UWP] Universal Windows Platform or Game App on the [Xbox Store] Microsoft Store!
 
-3. Visiting Xbox Registration Site 
-	Link : https://www.xbox.com/en-US/publish
-	<img width="500" src="">
-
-4. Selecting Membership Type
-	Note : There will be 2 Types of Membership Types ID@XBOX or Creator Program
-	Note : Today will be using Creator Program because its used for Single Person, Small Group, Small Business, Student, Hobbyist or Just Trying to Learn. Dont think about it to much about it! The "ID@Xbox" is for when your a Business but i read Documentation that this method might now work for "ID@Xbox" Program if you follow the same steps but ive never had a ID@XBOX Account so LMK if you get access to that and this works :)
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/3. A. Selecting Membership Type - ID@XBOX/]
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/3. B. Selecting Membership Type - Creator Program/]
+2. Visiting Xbox Registration Site 
+	https://www.xbox.com/en-US/publish
 	
-	4. Select 
-		A. "Creator Program"
-		B. "Join Now"
-			[Image Reference Inside of Folder = /Microsoft/1.Get your License First/3. B. Selecting Membership Type - Creator Program/]
+<img width="500" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/2.%20Visiting%20Xbox%20Registration%20Site.png">
 
-5. Registering Account 
+3. Selecting Membership Type
+	> NOTE : There will be 2 Types of Membership Types ID@XBOX or Creator Program
+	
+ 	> NOTE : Today will be using Creator Program
+
+<img width="500" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%20-%20A.%20Selecting%20Membership%20Type%20-%20ID%40XBOX.png">
+
+<img width="500" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%20B.%20Selecting%20Membership%20Type%20-%20Creator%20Program.png">
+
+	
+1. Select 
+	A. "Creator Program"
+	B. "Join Now"
+
+<img width="500" src=""> [Image Reference Inside of Folder = /Microsoft/1.Get your License First/3. B. Selecting Membership Type - Creator Program/]
+
+4. Registering Account 
 	1. Select "Sign Up"
 		Link : https://partner.microsoft.com/dashboard/registration
 		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/4. Registering Account/]
 
-6. Login or Create Account
+5. Login or Create Account
 	1. Asking you to Sign into Account or Create an Account
 	
 	2. Login if you have an existing account 
@@ -37,7 +43,7 @@
 	3. Next Step
 		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/5. Login or Create Account/]
 
-7. Registration Account Info - Account Type
+6. Registration Account Info - Account Type
 	1. Once you Login you will have to setup your Account - Country and Account Type
 		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/6. Registration - Account Info - Account Type/]
 	
@@ -48,7 +54,7 @@
 	3. Choose what best fits you.
 		Note : Dont think about this to much if your first starting!
 	
-8. Registration - Might Have to Sign In Again
+7. Registration - Might Have to Sign In Again
 	Note : Microsoft may ask you to sign in again just sign back in and continue	
 	[Image Reference Inside of Folder = /Microsoft/1.Get your License First/7. Registration - Might Have to SIgn In Again]
 	
