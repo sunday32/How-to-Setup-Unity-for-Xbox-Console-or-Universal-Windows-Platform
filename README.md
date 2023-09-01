@@ -92,7 +92,7 @@
 
 #### 8. A. Select Finish
 
-#### 8. B. Go to Dashboard
+#### 8. B. Select Go to Dashboard
   
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/8.%20B.%20Registration%20-%20Payment%20-%20Complete.png">
 
