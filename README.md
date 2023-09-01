@@ -188,11 +188,38 @@ https://aka.ms/activatexbox
 #### - 4. install
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%204.%20Installing%20App.png">
 
-#### - 5. Launching the App
+#### - 5. Launching from Home
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%205.%20Home%20-%20App.png">
 
+#### - 6. Launching the App
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%206.%20Launching%20App.png">
+
+### 3. Inside the Developer App
+
+#### - 1. Welcome Screen
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%201.%20Welcome.png">
+
+#### ---- A. From this screen you press next
+
+#### - 2. Before you begin Screen
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%202.%20Before%20you%20Begin.png">
+
+#### ---- A. From this screen you press next
+
+#### - 3. Activate Console Screen
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%203.%20Activation%20Code%20-%20Xbox.png">
+
+#### ---- A. From this screen youll be given a unique code [XXXXXX] code called Activation Code
+
+> EXAMPLE = WDRJ46
+
+
+
 
 
 
