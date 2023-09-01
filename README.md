@@ -5,13 +5,13 @@
 
 ## 1. Get your License First
 
-### 1. Getting your Microsoft Partner Center Account
-> NOTE : Process takes about 15 - 30 Mins Depanding how fast your going dont let the long notes make you nervous i just wanted to make sure i covered everything :)
+> NOTE : Process takes about 15 - 30 Minute to Setup Depanding how fast your going dont let the long notes make you nervous i just wanted to make sure i covered everything :)
 
 > NOTE : Cost $20 USD Membership Last Forever Only 1 Time Payment!
 
 > IMPORTANT : Why is this needed it gives you Developer Access on your Xbox and Lets you upload your [UWP] Universal Windows Platform or Game App on the [Xbox Store] Microsoft Store!
 
+### 1. Getting your Microsoft Partner Center Account
 
 ### 2. Visiting Microsoft Registration Site - https://www.xbox.com/en-US/publish
 	
