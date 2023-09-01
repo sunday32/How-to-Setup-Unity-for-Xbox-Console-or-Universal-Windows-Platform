@@ -2,6 +2,8 @@
 
 # How to Setup Unity for Xbox Console or Universal Windows Platform
 
+> STILL UNDER CONSTRUCTION - IF I MADE AN ERROR PLEASE LET ME KNOW 
+https://www.reddit.com/r/Unity3D/comments/167hvdy/how_to_setup_unity_for_xbox_console_or_universal/
 
 ## 1. Get your License First
 
