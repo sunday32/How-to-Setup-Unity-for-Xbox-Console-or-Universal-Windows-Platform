@@ -106,4 +106,4 @@
 #### 9. 2. Keep the dashboard open for Part 2 - 2. Registering and Activating your Xbox Console
 
 
-### 2. Registering and Activating your Xbox Console
+## 2. Registering and Activating your Xbox Console
