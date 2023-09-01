@@ -11,11 +11,11 @@
 
 > IMPORTANT : Why is this needed it gives you Developer Access on your Xbox and Lets you upload your [UWP] Universal Windows Platform or Game App on the [Xbox Store] Microsoft Store!
 
-#### 2. Visiting Microsoft Registration Site - https://www.xbox.com/en-US/publish
+## 2. Visiting Microsoft Registration Site - https://www.xbox.com/en-US/publish
 	
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/2.%20Visiting%20Xbox%20Registration%20Site.png">
 
-#### 3. Selecting Membership Type
+## 3. Selecting Membership Type
 > NOTE : There will be 2 Types of Membership Types ID@XBOX or Creator Program
 	
  > NOTE : Today will be using Creator Program
@@ -31,48 +31,56 @@
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%20-%203.%20Registering%20Account.png"> 
 
-#### 4. 1. Select "No account? Create one!"
+## 4. Select "No account? Create one!"
 
 #### 4. 1. Create Account : https://partner.microsoft.com/dashboard/registration
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/4.%20Create%20Account.png">
 
-#### or
+## or
 
-#### 5. Logging In : https://partner.microsoft.com/dashboard/registration
+## 5. Login : https://partner.microsoft.com/dashboard/registration
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/5.%20Login.png">
 
-#### 6. Registration Account Info - Account Type
+## 6. Registration - Account Info - Account Type
+
+#### 6. 1. Once you Login you will have to setup your Account - Country and Account Type
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/6.%20Registration%20-%20Account%20Info%20-%20Account%20Type.png">
 
-#### 6. 1. Once you Login you will have to setup your Account - Country and Account Type
-<img width="750" src="">
+> NOTE : Choose what best fits you. Dont think about this to much if your first starting!
 
-		
-	
-	2. Selecting Account Type
-		A. Individual = $19.99
-		B.Company = $99.99
-	
-	3. Choose what best fits you.
-		Note : Dont think about this to much if your first starting!
-	
-7. Registration - Might Have to Sign In Again
-	Note : Microsoft may ask you to sign in again just sign back in and continue	
-	[Image Reference Inside of Folder = /Microsoft/1.Get your License First/7. Registration - Might Have to SIgn In Again]
-	<img width="750" src="">
+#### 6. 2. Select Your Account Country or Your Region
 
-9. Registration - Account Info - Account Type - Individual - Company
-	1. Fill out your personal information
-	
-	2. Select Add A New Payment Method
- 			[Image Reference Inside of Folder = /Microsoft/1.Get your License First/8. Registration - Payment - Select Add A New Payment Method]
-	<img width="750" src="">
-	3. Fill out your Banking Information
-	
-9.Registration - Payment
+#### 6. 3. Selecting Account Type
+
+#### 6. 4. A. Individual = $19.99
+
+#### 6. 5. B. Company = $99.99
+
+#### 6. 6. Select Individual or Company
+
+#### 6. 7. Fill out your personal information below
+
+#### 6. 8. Select Next
+
+> NOTE : System may ask you to resign in to protect sensitive information
+ 
+#### 6. 9. Resignin If your Still Loginin Continue to Next Step
+
+## 7. Registration - Payment
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/7.%20Registration%20-%20Payment%20-%20Select%20Add%20A%20New%20Payment%20Method.png">
+
+#### 7. 1. Select Add A New Payment Method
+
+#### 7. 2. Fill out your Banking Information
+
+
+
+ 
+8.Registration - Payment
 	1. Select Next
 	
 	2. App Developer Aggrement
@@ -81,7 +89,7 @@
 		B.Go to Dashboard
 			[Image Reference Inside of Folder = /Microsoft/1.Get your License First/9. B. Registration - Payment - Complete]
 <img width="750" src=""><img width="750" src="">
-10. Dashboard
+9. Dashboard
 	1. Once you are done you will see your dashboard
 		Link : https://partner.microsoft.com/en-us/dashboard/home
 		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/10. Dashboard]<img width="750" src="">
