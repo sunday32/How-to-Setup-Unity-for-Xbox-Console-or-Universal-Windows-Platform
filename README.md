@@ -4,9 +4,9 @@
 
 ## 1. Get your License First
 
-	#### 1.Getting your Microsoft Partner Center Account 
-		Note : "Only $20 USD Membership Last Forever Only 1 Time Payment!"
-		Note : Why is this needed it gives you Developer Access on your Xbox and Lets you Place your UWP Universal Windows Platform or Game App on the Xbox Microsoft Store!
+	1. Getting your Microsoft Partner Center Account 
+		Only $20 USD Membership Last Forever Only 1 Time Payment
+		Why is this needed it gives you Developer Access on your Xbox and Lets you Place your UWP Universal Windows Platform or Game App on the Xbox Microsoft Store
 
 	2. Visiting Xbox Registration Site 
 		Link : https://www.xbox.com/en-US/publish
