@@ -17,7 +17,6 @@
 	
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/2.%20Visiting%20Xbox%20Registration%20Site.png">
 
-
 ### 3. Selecting Membership Type
 > NOTE : There will be 2 Types of Membership Types ID@XBOX or Creator Program
 	
