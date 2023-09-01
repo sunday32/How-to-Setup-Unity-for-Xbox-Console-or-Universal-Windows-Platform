@@ -3,7 +3,6 @@
 # How to Setup Unity for Xbox Console or Universal Windows Platform
 
 ## 1. Get your License First
----------------------------------------------------------------------------------
 	#### 1.Getting your Microsoft Partner Center Account 
 		Note : "Only $20 USD Membership Last Forever Only 1 Time Payment!"
 		Note : Why is this needed it gives you Developer Access on your Xbox and Lets you Place your [UWP] Universal Windows Platform or Game App on the [Xbox] Microsoft Store!
