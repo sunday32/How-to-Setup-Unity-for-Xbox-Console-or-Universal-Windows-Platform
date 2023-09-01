@@ -80,31 +80,31 @@
 
 ### 7. Registration - Payment
 
-#### 7. 1. Select Add A New Payment Method
+#### - 1. Select Add A New Payment Method
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/7.%20Registration%20-%20Payment%20-%20Select%20Add%20A%20New%20Payment%20Method.png">
 
-#### 7. 2. Fill out your Banking Information
+#### - 2. Fill out your Banking Information
 
 
 ### 8. App Developer Aggrement
 
-#### 8. A. Select Finish
+#### ---- A. Select Finish
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/8.%20A.%20Registration%20-%20Payment.png">
 
-#### 8. B. Select Go to Dashboard
+#### ---- B. Select Go to Dashboard
   
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/8.%20B.%20Registration%20-%20Payment%20-%20Complete.png">
 
 
 ### 9. Dashboard : https://partner.microsoft.com/en-us/dashboard/home
 
-#### 9. 1. Once you are done you will see your dashboard
+#### - 1. Once you are done you will see your dashboard
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/9.%20Dashboard.png">
 
-#### 9. 2. Keep the dashboard open for Part 2 - 2. Registering and Activating your Xbox Console
+#### - 2. Keep the dashboard open for Part 2 - 2. Registering and Activating your Xbox Console
 
 
 ## 2. Registering and Activating your Xbox Console
