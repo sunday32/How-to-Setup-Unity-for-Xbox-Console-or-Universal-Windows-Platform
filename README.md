@@ -220,13 +220,13 @@ https://aka.ms/activatexbox
 
 #### - 4. Entering Activation Code
 
-#### ---- A. Back to Dashboard/Games and Apps/Xbox Development Consoles
+#### ---- A. Back to Dashboard/Games and Apps/Xbox Development Consoles - Enter Activation Code
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%203.%20Enter%20Activation%20Code%20Popup.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%204.%20Action%20Method.png">
 
 ### or
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%204.%20Action%20Method.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%204.Entering%20Activation%20Code.png">
 
 > NOTE : If your lost or cant find it here are the direct links
 
@@ -235,6 +235,8 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 #### or
 
 https://aka.ms/activatexbox
+
+
 
 
 
