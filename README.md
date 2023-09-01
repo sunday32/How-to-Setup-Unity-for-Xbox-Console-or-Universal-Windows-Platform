@@ -36,19 +36,6 @@ https://www.reddit.com/r/Unity3D/comments/167hvdy/how_to_setup_unity_for_xbox_co
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%203.%20Registering%20Account.png"> 
 
-
-### - 4. Select "No account? Create one!"
-
-#### ---- 1. Create Account if you do not have one
-
-https://partner.microsoft.com/dashboard/registration
-
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/4.%20Create%20Account.png">
-
-
-### or
-
-
 ### - 5. Login 
 
 #### ---- 1. Login if you already have an account
@@ -57,6 +44,15 @@ https://partner.microsoft.com/dashboard/registration: https://partner.microsoft.
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/5.%20Login.png">
 
+### or
+
+### - 4. Select "No account? Create one!"
+
+#### ---- 1. Create Account if you do not have one
+
+https://partner.microsoft.com/dashboard/registration
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/4.%20Create%20Account.png">
 
 ### - 6. Registration - Account Info - Account Type
 
