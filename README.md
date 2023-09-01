@@ -105,6 +105,46 @@
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/9.%20Dashboard.png">
 
 #### - 2. Keep the dashboard open for Part 2 - 2. Registering and Activating your Xbox Console
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 2. Registering and Activating your Xbox Console
+## 2. Registering and Activating your Xbox Console 
+
+### 1. Visit your Dashboard - https://partner.microsoft.com/en-us/dashboard/home
+
+#### - 1. Select Apps and Games
+
+<img width="750" src="">
+
+#### - 2. Select Xbox Development Console
+
+<img width="750" src="">
+
+#### - 3. Enter Activation Code Popup
+
+<img width="750" src="">
+
+> NOTE : A Pop up will appear if its your first time [Enter Activation Code] or Click + Button that Says "Actions" and Click Enter Activation Code
+
+#### ---- A. Select Actions Buttin or +
+
+<img width="750" src="">
+
+#### ---- B. Select Enter Activation Code
+
+<img width="750" src="">
+
+> NOTE : If your lost or cant find it here are the direct links
+
+https://partner.microsoft.com/en-us/xboxconfig/devices/index
+
+## or
+
+Link : https://aka.ms/activatexbox
+
+
+#### 2. How to Get your Activation Code
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 3. How to your Setup Xbox
