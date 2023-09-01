@@ -25,15 +25,15 @@
 
 #### - 1. Select "Creator Program"
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%20-%201.%20Selecting%20Membership%20Type%20-%20ID%40XBOX%20Account.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%201.%20Selecting%20Membership%20Type%20-%20ID%40XBOX%20Account.png">
 
 #### - 2. Select "Join Now"
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%20-%202.%20Selecting%20Membership%20Type%20-%20Creator%20Program%20Account.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%202.%20Selecting%20Membership%20Type%20-%20Creator%20Program%20Account.png">
 
 #### - 3. Select "Signup"
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%20-%203.%20Registering%20Account.png"> 
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%203.%20Registering%20Account.png"> 
 
 
 ### 4. Select "No account? Create one!"
