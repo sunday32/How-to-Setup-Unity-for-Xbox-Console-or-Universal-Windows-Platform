@@ -86,19 +86,19 @@
 #### 7. 2. Fill out your Banking Information
 
 
+#### 8. App Developer Aggrement
+#### 8. A. Select Finish
 
- 
-8.Registration - Payment
-	1. Select Next
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/8.%20A.%20Registration%20-%20Payment.png">
+		
+#### 8. B. Go to Dashboard
+  
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/8.%20B.%20Registration%20-%20Payment%20-%20Complete.png">
+
+
+#### 9. Dashboard
+#### 9. 1. Once you are done you will see your dashboard : https://partner.microsoft.com/en-us/dashboard/home
+
+<img width="750" src=""><img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/9.%20Dashboard.png">
 	
-	2. App Developer Aggrement
-		A.Select Finish
-			[Image Reference Inside of Folder = /Microsoft/1.Get your License First/9. A. Registration - Payment]
-		B.Go to Dashboard
-			[Image Reference Inside of Folder = /Microsoft/1.Get your License First/9. B. Registration - Payment - Complete]
-<img width="750" src=""><img width="750" src="">
-9. Dashboard
-	1. Once you are done you will see your dashboard
-		Link : https://partner.microsoft.com/en-us/dashboard/home
-		[Image Reference Inside of Folder = /Microsoft/1.Get your License First/10. Dashboard]<img width="750" src="">
-	2. Keep the dashboard open to Registering and Activating your Xbox Console
+ #### 9. 2. Keep the dashboard open to Registering and Activating your Xbox Console
