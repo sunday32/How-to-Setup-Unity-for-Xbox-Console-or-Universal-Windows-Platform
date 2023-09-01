@@ -171,4 +171,28 @@ https://aka.ms/activatexbox
 
 > NOTE - You will have to sign in twice once in Retail Mode and once in Developer Mode and any Account can be used in Testing Mode
 
-#### - 1. Setting up your Xbox
+### 2. Downloading The App
+
+#### - 1. From Home
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%201.%20Home.png">
+
+#### - 2. Open Microsoft Store
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%202.%20Microsoft%20Store.png">
+
+#### - 3. Search for "Dev Mode Activation" app from the Xbox Store
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%203.%20Searching%20App.png">
+
+#### - 4. install
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%204.%20Installing%20App.png">
+
+#### - 5. Launching the App
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%205.%20Home%20-%20App.png">
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%206.%20Launching%20App.png">
+
+
+
