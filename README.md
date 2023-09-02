@@ -271,8 +271,6 @@ https://aka.ms/activatexbox
 #### ---- 2. Do not forget this information we will need it to connect Unity
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%201.%20Developer%20Screen.jpg">
-
-#### ---- 3. You are done the next step is the final step of creating a project using unity to build and import the project to xbox testing it and finishing.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
