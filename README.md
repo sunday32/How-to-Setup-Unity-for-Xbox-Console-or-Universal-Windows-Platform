@@ -11,7 +11,7 @@ https://www.reddit.com/r/Unity3D/comments/167hvdy/how_to_setup_unity_for_xbox_co
 2. Registering and Activating your Xbox Console
 3. How to your Setup Xbox
 4. Setting up your Computer
-5. Choosing Automaticlly Loading Game using Unity or Manuelly Uploading Game Using Visual Studio
+5. Automaticlly Loading Game using Unity or Manuelly Uploading Game Using Visual Studio
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1. Get your License First
