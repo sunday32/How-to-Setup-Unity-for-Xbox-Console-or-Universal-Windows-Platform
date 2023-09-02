@@ -3,7 +3,6 @@
 # How to Setup Unity for Xbox Console or Universal Windows Platform
 
 ## Table of contents
-1. [General Info](#general-information)
 1. Get your License First
 2. Registering and Activating your Xbox Console
 3. How to your Setup Xbox
@@ -11,7 +10,7 @@
 5. Setting Up Project, Connecting Unity and Finishing
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## General Information
+
 
 ## 1. Get your License First
 
