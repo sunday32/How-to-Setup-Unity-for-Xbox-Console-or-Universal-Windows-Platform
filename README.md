@@ -10,7 +10,8 @@ https://www.reddit.com/r/Unity3D/comments/167hvdy/how_to_setup_unity_for_xbox_co
 1. Get your License First
 2. Registering and Activating your Xbox Console
 3. How to your Setup Xbox
-4. 
+4. Setting up your Computer
+5. Choosing Automaticlly Loading Game using Unity or Manuelly Uploading Game Using Visual Studio
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1. Get your License First
@@ -256,7 +257,7 @@ https://aka.ms/activatexbox
 
 > NOTE : Once you have successfully added the xbox you will only be using your Dashboard to either add more consoles for testing or uploading your finished project for the public.
 
-### 4. Setting up Remote Access
+### - 4. Setting up Remote Access
 
 #### - 1. Developer Screen
 
