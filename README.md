@@ -13,7 +13,7 @@ https://www.reddit.com/r/Unity3D/comments/167hvdy/how_to_setup_unity_for_xbox_co
 4. Setting up your Computer
 5. Automaticlly Loading Game using Unity or Manuelly Uploading Game Using Visual Studio
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1. Get your License First
 
 > NOTE : Process takes about 15 - 30 Minute to Setup Depanding how fast your going dont let the long notes make you nervous i just wanted to make sure i covered everything :)
@@ -117,7 +117,7 @@ https://partner.microsoft.com/dashboard/registration
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/9.%20Dashboard.png">
 
 #### ---- 2. Keep the dashboard open for Part 2 - 2. Registering and Activating your Xbox Console
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 2. Registering and Activating your Xbox Console 
@@ -160,8 +160,7 @@ https://aka.ms/activatexbox
 > NOTE : Example Below of Activation Code in Part 3. How to your Setup Xbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/2.%20How%20to%20Get%20your%20Activation%20Code.png">
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 3. How to your Setup Xbox
@@ -271,5 +270,47 @@ https://aka.ms/activatexbox
 
 #### ---- 1. Select Set Username and Password and Create One
 
-#### ---- 2. Do not forget this information we will need it to connect Unity or Connecting to Console using Browser
+#### ---- 2. Do not forget this information we will need it to connect Unity
 
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%201.%20Developer%20Screen.jpg">
+
+#### ---- 3. You are done the next step is the final step of creating a project using unity to build and import the project to xbox testing it and finishing.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### - 5. Setting Up Project, Connecting Unity and Finishing
+
+
+
+
+
+
+
+
+
+
+
+
+## Tools I Use for Game Development
+
+#### Unity - Engine
+https://unity.com/
+
+#### Visual Studio Community - Programming
+https://visualstudio.microsoft.com/
+
+#### Blender - 3D Models, UV Map, Textures, Animations, Sculpting, Painting and Much More
+https://www.blender.org/
+
+#### Gimp - Textures, Painting, Layers and More | "Basicly Photoshop" 
+https://www.gimp.org/
+
+#### Audacity - Audio
+https://www.audacityteam.org/
+
+#### Filezilla - File Transfer Protocol, Server and Client
+https://filezilla-project.org/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Doit - Tar Gaming - I believe in softtware freedom - Modify or Change this freely as you like all i ask is you share any knowledge you gain :)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
