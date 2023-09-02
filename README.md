@@ -312,5 +312,5 @@ https://www.audacityteam.org/
 https://filezilla-project.org/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Doit - Tar Gaming - I believe in softtware freedom - Modify or Change this freely as you like all i ask is you share any knowledge you gain :)
+#### Doit - I believe in softtware freedom - Modify or Change this freely as you like all i ask is you share any knowledge you gain :)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
