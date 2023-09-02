@@ -5,8 +5,7 @@
 > STILL UNDER CONSTRUCTION - IF I MADE AN ERROR PLEASE LET ME KNOW 
 https://www.reddit.com/r/Unity3D/comments/167hvdy/how_to_setup_unity_for_xbox_console_or_universal/
 
-
-## Contents
+## Table of contents
 1. Get your License First
 2. Registering and Activating your Xbox Console
 3. How to your Setup Xbox
@@ -14,6 +13,8 @@ https://www.reddit.com/r/Unity3D/comments/167hvdy/how_to_setup_unity_for_xbox_co
 5. Setting Up Project, Connecting Unity and Finishing
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## 1. Get your License First
 
 > NOTE : Process takes about 15 - 30 Minute to Setup Depanding how fast your going dont let the long notes make you nervous i just wanted to make sure i covered everything :)
