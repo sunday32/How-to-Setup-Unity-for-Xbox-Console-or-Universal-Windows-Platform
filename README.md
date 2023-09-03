@@ -81,6 +81,7 @@
  
 #### ---- 7. Resignin or If nothing happened Continue to Next Step
 
+
 ### -- 7. Registration - Payment
 
 #### ---- 1. Select Add A New Payment Method
@@ -151,6 +152,7 @@ https://aka.ms/activatexbox
 > NOTE : Example Below of Activation Code in Part 3. How to your Setup Xbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/2.%20How%20to%20Get%20your%20Activation%20Code.png">
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
