@@ -277,7 +277,116 @@ https://aka.ms/activatexbox
 
 ## 4. Setting up your Computer
 
+### - 1. Enabling Developer Mode
 
+#### ---- 1. Select Start Menu
+
+<img width="750" src="">
+
+#### ---- 2. Search for Settings
+
+<img width="750" src="">
+
+#### ---- 3. Select Update & Security or Privacy and Security
+
+<img width="750" src="">
+
+#### ---- 4. Select For Developers
+
+<img width="750" src="">
+
+#### ---- 5. Use Developer Features
+
+<img width="750" src="">
+
+#### ---- 6. Enabling [/] Developer Mode ).
+
+<img width="750" src="">
+
+
+### - 2. Install Unity Hub Install any "Official Release"
+
+https://unity.com/
+
+<img width="750" src="">
+
+### - 3. Install Visual Studio Community 2017, 2019, 2022 or "Lastest Version"
+
+https://visualstudio.microsoft.com/downloads/
+
+<img width="750" src="">
+
+#### ---- 1. Install Visual Studio Community on Computer
+
+<img width="750" src="">
+
+#### ---- 2. Once installed youll see a screen with workloads or packages to intall
+
+<img width="750" src="">
+
+#### ---- 3. Workload or Packages 
+
+#### -------- A. Install Universal Windows Platform Development
+
+#### -------- B. Install Game Development with Unity
+
+### - 4. 
+
+
+
+
+<img width="750" src="">
+
+1. Enabling Developer Mode
+	A. Enable Developer Mode for your Development PC go to ( Start / Search - Settings / Update & Security or Privacy and Security / For Developers / Use Developer Features / Developer Mode ).
+
+
+2. Install Unity Hub Install any "Offical Release"
+	--> https://unity.com/
+3. Install Visual Studio Community "Lastest Version"
+	--> https://visualstudio.microsoft.com/downloads/
+		A. Install Visual Studio Community
+		B. Workload or Packages 
+		C. Install Universal Windows Platform Development and Game Development with Unity
+
+
+5. Visual Studio Remote Tools
+	--> https://visualstudio.microsoft.com/downloads/
+		A. Scroll Down to All Downloads
+		B. Tools for Visual Studio
+		C. Remote Tools for Visual Studio (Year)
+		D. Download AMD64 or ARM64 and Check which one Installs for you.
+		E. If Lost use Link as Reference "Download and install the Remote Tools for Visual Studio"
+			--> https://learn.microsoft.com/en-us/visualstudio/debugger/run-windows-store-apps-on-a-remote-machine
+6. Install Windows 10 SDK or Lastest if Changed.
+	--> https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
+7. Open Unity Hub
+	A. New Project
+	B. Project Name [Name it the Game your Making or just "Xbox Game" or "Xbox App"]
+	C. Select 3D or 2D [I Choose "3D"]
+	D. Create Project
+8. Once Xbox Project is Done and Unity Opened 
+	A. Go to -File -Build Settings
+	B. Under Platform Select Universal Windows Platform
+	C. Select Switch Platforms
+	D. Once its Done Settings Should Be
+		I. Architecture [Intel 64 - Bit]
+		II.Build Type [D3D Project]
+		III.Build and Run on [Remote Machine]
+			-->[Local Machine] = Building the Game Opening the .sln file After Build File is Done which ill talk about later in the instructions Open .stl File Clean the File with Clean Solution, Create App Packages then Load your Xbox Console Dashboard and Import Files to Transfer Games Files into your Xbox.
+			-->[Remote Machine] = Setting this up you can launch the game stright from Unity or Visual Studio no need to do all the extra Steps but Will need to setup a few things. "Remote Access"
+			--> Everything i talked about above is in the nexts few steps i just tried to explain which route youll take.
+9. Once thats all set go into PLayer Settings in same window of Build Settings
+	A. Edit Company Name [Use any Type I Used "Tar Gaming"]
+	B. Product Name [Use any Type I Used "Good vs Bad"]
+	C. Go to Universal Windows Platform Settings Tab
+		I. Publishing Settings
+		II. Certificate
+		III. Create
+		IV. Publisher - [Use any Name I Used "Tar Gaming"] Dont Need Password Same Thing thats Your Prefrence This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
+		V. Select Create
+			--> For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testing
+9.Everything is Set for Now Next Set is How to Setup Xbox
 
 
 
