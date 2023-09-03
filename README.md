@@ -43,21 +43,15 @@
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%203.%20Registering%20Account.png"> 
 
-### -- 4. Login 
-
-#### ---- 1. Login if you already have an account
-
-https://partner.microsoft.com/dashboard/registration
+### -- 4. Login if you already have an account - https://partner.microsoft.com/dashboard/registration
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/4.%20Login.png">
 
 ### or
 
-### -- 5. Select "No account? Create one!"
+### -- 5.  Create Account if you do not have one - https://partner.microsoft.com/dashboard/registration
 
-#### ---- 1. Create Account if you do not have one
-
-https://partner.microsoft.com/dashboard/registration
+#### ---- 1. Select "No account? Create one!"
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/5.%20Create%20Account.png">
 
@@ -73,9 +67,9 @@ https://partner.microsoft.com/dashboard/registration
 
 #### ---- 3. Selecting Account Type
 
-#### ------ A. Individual = $19.99
+#### -------- A. Individual = $19.99
 
-#### ------ B. Company = $99.99
+#### -------- B. Company = $99.99
 
 #### ---- 4. Select Individual or Company
 
@@ -85,8 +79,7 @@ https://partner.microsoft.com/dashboard/registration
 
 > NOTE : System may ask you to resign in to protect sensitive information
  
-#### ---- 7. Resignin If your still Login Continue to Next Step
-
+#### ---- 7. Resignin or If nothing happened Continue to Next Step
 
 ### -- 7. Registration - Payment
 
