@@ -345,7 +345,7 @@ https://aka.ms/activatexbox
 
 #### ---- 10. Signin into Unity Hub
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%2010.%20Unity%20Hub%20Signin.png">
 
 
 ### -- 3. Install Visual Studio Community 2017, 2019, 2022 or "Lastest Version"
@@ -370,17 +370,6 @@ https://visualstudio.microsoft.com/downloads/
 
 ### -- 4. 
 
-
-
-
-<img width="750" src="">
-
-1. Enabling Developer Mode
-	A. Enable Developer Mode for your Development PC go to ( Start / Search - Settings / Update & Security or Privacy and Security / For Developers / Use Developer Features / Developer Mode ).
-
-
-2. Install Unity Hub Install any "Offical Release"
-	--> https://unity.com/
 3. Install Visual Studio Community "Lastest Version"
 	--> https://visualstudio.microsoft.com/downloads/
 		A. Install Visual Studio Community
@@ -398,6 +387,15 @@ https://visualstudio.microsoft.com/downloads/
 			--> https://learn.microsoft.com/en-us/visualstudio/debugger/run-windows-store-apps-on-a-remote-machine
 6. Install Windows 10 SDK or Lastest if Changed.
 	--> https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 5. Setting Up Project, Connecting Unity and Finishing
+
+#### ---- . You are done the next step is the final step of creating a project using unity to build and import the project to xbox testing it and finishing.
+
 7. Open Unity Hub
 	A. New Project
 	B. Project Name [Name it the Game your Making or just "Xbox Game" or "Xbox App"]
@@ -423,29 +421,9 @@ https://visualstudio.microsoft.com/downloads/
 		III. Create
 		IV. Publisher - [Use any Name I Used "Tar Gaming"] Dont Need Password Same Thing thats Your Prefrence This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
 		V. Select Create
-			--> For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testing
-9.Everything is Set for Now Next Set is How to Setup Xbox
+			--> For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testin
 
-
-
-
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## 5. Setting Up Project, Connecting Unity and Finishing
-
-#### ---- . You are done the next step is the final step of creating a project using unity to build and import the project to xbox testing it and finishing.
-
-
-
-
-
-
-
-
+   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
