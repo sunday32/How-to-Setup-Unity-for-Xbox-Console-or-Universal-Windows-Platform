@@ -276,27 +276,25 @@ https://aka.ms/activatexbox
 
 #### ---- 1. Select Start Menu
 
-<img width="750" src="">
-
 #### ---- 2. Search for Settings
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%202.%20Searching%20for%20Settings.png">
 
 #### ---- 3. Select Update & Security or Privacy and Security
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%203.%20Update%20%26%20Security%20or%20Privacy%20and%20Security.png">
 
 #### ---- 4. Select For Developers
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%204.%20For%20Developers.png">
 
-#### ---- 5. Use Developer Features
+#### ---- 5. Use Developer Mode and Enable [/] Developer Mode ).
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%205.%20Enable%20Developer%20Mode.png">
 
-#### ---- 6. Enabling [/] Developer Mode ).
+#### ---- 6. Use Developer Features Select Yes
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%206.%20Use%20Developer%20Features%20Select%20Yes.png">
 
 
 ### -- 2. Install Unity Hub Install any "Official Release"
