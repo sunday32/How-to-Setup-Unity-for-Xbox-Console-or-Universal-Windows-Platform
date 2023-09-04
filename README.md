@@ -301,9 +301,9 @@ https://aka.ms/activatexbox
 
 #### ---- 1. Download for Windows or Your Operating System 
 
-> NOTE : Install Unity Hub and Continue
-
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%201.%20Installing%20Unity%20Download.png">
+
+> NOTE : Install Unity Hub and Continue
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%201.%20Installing%20Unity%20Hub.png">
 
