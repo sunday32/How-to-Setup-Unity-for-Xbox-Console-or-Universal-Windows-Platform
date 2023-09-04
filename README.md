@@ -276,9 +276,9 @@ https://aka.ms/activatexbox
 
 #### ---- 1. Select Start Menu
 
-#### ---- 2. Search for Settings
-
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%202.%20Searching%20for%20Settings.png">
+
+#### ---- 2. Search for Settings
 
 #### ---- 3. Select Update & Security or Privacy and Security
 
@@ -288,11 +288,11 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%204.%20For%20Developers.png">
 
-#### ---- 5. Use Developer Mode and Enable [/] Developer Mode ).
+#### ---- 5. Select Developer Mode and Turn [ON]
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%205.%20Enable%20Developer%20Mode.png">
 
-#### ---- 6. Use Developer Features Select Yes
+#### ---- 6. Use Developer Features Pop Up Select [Yes]
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%206.%20Use%20Developer%20Features%20Select%20Yes.png">
 
