@@ -307,7 +307,7 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%201.%20Installing%20Unity%20Hub.png">
 
-#### ---- 2. Signup for Free 
+#### ---- 2. Signup for Free - https://id.unity.com/account/new
 
 > NOTE : Skip this step if you already have an account
 
