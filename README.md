@@ -299,18 +299,46 @@ https://aka.ms/activatexbox
 
 ### -- 2. Install Unity Hub Install Any "Official Release" - https://unity.com/
 
-<img width="750" src="">
+#### ---- 1. Download for Windows or Your Operating System 
 
-#### ---- 1. Signup for Free [Skip this step if you already have an account]
+> NOTE : Install Unity Hub and Continue
 
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%200.%20Installing%20Unity%20Download.png">
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%201.%20Installing%20Unity%20Hub.png">
+
+#### ---- 2. Signup for Free 
+
+> NOTE : Skip this step if you already have an account
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%201.%20Unity.png">
+
+#### ---- 3. Create a Unity ID
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%202.%20Create%20a%20Unity%20ID.png">
+
+#### ---- 4. Create a Unity ID
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%203%20Signup%20Page%20and%20Fillout%20Information.png">
+
+#### ---- 5. Confirm Your Email
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%204.%20Confirm%20Your%20Email.png">
+
+#### ---- 6. Email Verfification
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%205.%20Email.jpg">
+
+#### ---- 7. Need to Verify
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%206.%20Need%20to%20Verify.png">
+
+#### ---- 8. Signin
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%207.%20Signin.png">
+
+#### ---- 9. Dashboard
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%208.%20Dashboard.png">
 
 
