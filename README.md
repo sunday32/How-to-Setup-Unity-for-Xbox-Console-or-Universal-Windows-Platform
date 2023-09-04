@@ -276,32 +276,43 @@ https://aka.ms/activatexbox
 
 #### ---- 1. Select Start Menu
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%202.%20Searching%20for%20Settings.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/1.%202.%20Searching%20for%20Settings.png">
 
 #### ---- 2. Search for Settings
 
 #### ---- 3. Select Update & Security or Privacy and Security
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%203.%20Update%20%26%20Security%20or%20Privacy%20and%20Security.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/1.%203.%20Update%20%26%20Security%20or%20Privacy%20and%20Security.png">
 
 #### ---- 4. Select For Developers
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%204.%20For%20Developers.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/1.%204.%20For%20Developers.png">
 
 #### ---- 5. Select Developer Mode and Turn [ON]
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%205.%20Enable%20Developer%20Mode.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/1.%205.%20Enable%20Developer%20Mode.png">
 
 #### ---- 6. Use Developer Features Pop Up Select [Yes]
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%206.%20Use%20Developer%20Features%20Select%20Yes.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/1.%206.%20Use%20Developer%20Features%20Select%20Yes.png">
 
 
-### -- 2. Install Unity Hub Install any "Official Release"
-
-https://unity.com/
+### -- 2. Install Unity Hub Install Any "Official Release" - https://unity.com/
 
 <img width="750" src="">
+
+#### ---- 1. Signup for Free [Skip this step if you already have an account]
+
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%201.%20Unity.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%202.%20Create%20a%20Unity%20ID.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%203%20Signup%20Page%20and%20Fillout%20Information.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%204.%20Confirm%20Your%20Email.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%205.%20Email.jpg">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%206.%20Need%20to%20Verify.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%207.%20Signin.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%208.%20Dashboard.png">
+
 
 ### -- 3. Install Visual Studio Community 2017, 2019, 2022 or "Lastest Version"
 
