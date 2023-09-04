@@ -341,6 +341,12 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%209.%20Dashboard.png">
 
+> NOTE : Once you signed up your ready to sign into Unity Hub
+
+#### ---- 10. Signin into Unity Hub
+
+<img width="750" src="">
+
 
 ### -- 3. Install Visual Studio Community 2017, 2019, 2022 or "Lastest Version"
 
