@@ -2,12 +2,17 @@
 
 # How to Setup Unity for Xbox Console or Universal Windows Platform
 
-## Table of contents
-1. Get your License First
-2. Registering and Activating your Xbox Console
-3. How to your Setup Xbox
-4. Setting up your Computer
+## Table of Contents
+1. Get Your License First
+2. Registering and Activating Your Xbox Console
+3. How to Your Setup Xbox
+4. Setting up Your Computer
 5. Setting Up Project, Connecting Unity and Finishing
+
+## Extra Table of Contents
+1. How to Setup Xbox Project Icons
+2. How to Setup Xbox Project Main Menu, Pause Menu and Settings
+3. How to Setup Xbox Project Extras
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -420,8 +425,20 @@ D. Publisher - [Use any Name I Used "Tar Gaming"] Dont Need Password Same Thing 
 E. Select Create
 For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testin
 
-   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## How to Setup Xbox Project Icons
+
+Link Coming Soon - https://github.com/sunday32/
+
+## How to Setup Xbox Project Main Menu, Pause Menu and Settings
+
+Link Coming Soon - https://github.com/sunday32/
+
+## How to Setup Xbox Project Extras 
+
+Link Coming Soon - https://github.com/sunday32/
 
 
 ## Tools I Use for Game Development
