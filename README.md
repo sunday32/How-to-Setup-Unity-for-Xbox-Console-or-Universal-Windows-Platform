@@ -351,37 +351,33 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%2012.%20Unity%20Hub%20Signin.png">
 
+> NOTE : If your having issue signing or unity hub not letting you sign in unity may be under maintenance error "internal server error" or "something went wrong" dont worry just wait a couple hours and try agian.
+
 
 ### -- 3. Install Visual Studio Community 2017, 2019, 2022 or "Lastest Version"
 
-https://visualstudio.microsoft.com/downloads/
+#### ---- 1. Visual Studio Community - https://visualstudio.microsoft.com/downloads/
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/3.%201.%20Visual%20Studio.png">
 
-#### ---- 1. Install Visual Studio Community on Computer
+#### ---- 2. Downloading Visual Studio
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/3.%202.%20Downloading%20Visual%20Studio.png">
 
-#### ---- 2. Once installed youll see a screen with workloads or packages to intall
+#### ---- 3. Install Visual Studio
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/3.%203.%20Installing%20Visual%20Studio.png">
 
-#### ---- 3. Workload or Packages 
+#### ---- 4. Workload or Packages 
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/3.%204.%20Workload%20or%20Packages.png">
 
 #### -------- A. Install Universal Windows Platform Development
 
 #### -------- B. Install Game Development with Unity
 
+
 ### -- 4. 
-
-
-3. Install Visual Studio Community "Lastest Version"
-	--> https://visualstudio.microsoft.com/downloads/
-		A. Install Visual Studio Community
-		B. Workload or Packages 
-		C. Install Universal Windows Platform Development and Game Development with Unity
-
-### -- 5. 
 5. Visual Studio Remote Tools
 	--> https://visualstudio.microsoft.com/downloads/
 		A. Scroll Down to All Downloads
@@ -391,7 +387,7 @@ https://visualstudio.microsoft.com/downloads/
 		E. If Lost use Link as Reference "Download and install the Remote Tools for Visual Studio"
 			--> https://learn.microsoft.com/en-us/visualstudio/debugger/run-windows-store-apps-on-a-remote-machine
 
-### -- 6. 
+### -- 5+. 
 6. Install Windows 10 SDK or Lastest if Changed.
 	--> https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 
