@@ -227,7 +227,7 @@ https://aka.ms/activatexbox
 
 > EXAMPLE = WDRJ46
 
-#### ---- 4. Entering Activation Code
+### ---- 4. Entering Activation Code
 
 #### ---- 1. Back to Dashboard/Games and Apps/Xbox Development Consoles - Enter Activation Code
 
