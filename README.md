@@ -165,6 +165,7 @@ https://aka.ms/activatexbox
 
 ## 3. How to your Setup Xbox
 
+
 ### -- 1. Setting up your Xbox
 
 > WARNING - Console May Cause a Fail when First Switching over to Developer Mode and Reseting Console May Be Required!
@@ -176,6 +177,7 @@ https://aka.ms/activatexbox
 > NOTE - This only happens once so if you install Developer Kit Launching it again would not reset anything
 
 > NOTE - You will have to sign in twice once in Retail Mode and once in Developer Mode and any Account can be used in Testing Mode
+
 
 ### -- 2. Downloading The App
 
@@ -202,21 +204,22 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%206.%20Launching%20App.png">
 
+
 ### -- 3. Inside the Developer App
 
 #### ---- 1. Welcome Screen
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%201.%20Welcome.png">
 
-#### ---- A. From this screen you press next
+#### ------ A. From this screen you press next
 
-#### -- 2. Before you begin Screen
+#### ---- 2. Before you begin Screen
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%202.%20Before%20you%20Begin.png">
 
-#### ---- A. From this screen you press next
+#### ------ A. From this screen you press next
 
-#### -- 3. Activate Console Screen
+#### ---- 3. Activate Console Screen
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%203.%20Activation%20Code%20-%20Xbox.png">
 
@@ -224,25 +227,17 @@ https://aka.ms/activatexbox
 
 > EXAMPLE = WDRJ46
 
-#### -- 4. Entering Activation Code
+#### ---- 4. Entering Activation Code
 
 #### ---- 1. Back to Dashboard/Games and Apps/Xbox Development Consoles - Enter Activation Code
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%204.%20Action%20Method.png">
+https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
-### or
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/4.%201.%202.%20Action%20Method.png">
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%204.Entering%20Activation%20Code.png">
 
-#### ---- A. Select Submit
-
-> NOTE : If your lost or cant find it here are the direct links
-
-https://partner.microsoft.com/en-us/xboxconfig/devices/index
-
-#### or
-
-https://aka.ms/activatexbox
+#### ------ A. Select Submit
 
 #### -- 5. Console Activated
 
@@ -256,6 +251,7 @@ https://aka.ms/activatexbox
 
 > NOTE : Once you have successfully added the xbox you will only be using your Dashboard to either add more consoles for testing or uploading your finished project for the public.
 
+
 ### -- 4. Setting up Remote Access
 
 #### ---- 1. Developer Screen
@@ -264,7 +260,7 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%201.%20Developer%20Screen.jpg">
 
-#### -- 2. Select Settings Under Remote Access
+#### ---- 2. Select Settings Under Remote Access
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%202.%20Remote%20Access.png">
 
