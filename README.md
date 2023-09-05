@@ -123,27 +123,27 @@
 
 ### -- 1. Visit your Dashboard - https://partner.microsoft.com/en-us/dashboard/home
 
-#### ---- 1. Select Apps and Games
+### -- 2. Select Apps and Games
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%201.%20Select%20Apps%20and%20Games.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/2.%20Select%20Apps%20and%20Games.png">
 
-#### ---- 2. Select Xbox Development Console
+### -- 3. Select Xbox Development Console
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%202.%20Select%20Xbox%20Development%20Console.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/3.%20Select%20Xbox%20Development%20Console.png">
 
-#### ---- 3. Enter Activation Code Popup
+### -- 4. Enter Activation Code Popup
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%203.%20Enter%20Activation%20Code%20Popup.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/4.%20Enter%20Activation%20Code%20Popup.png">
 
-> NOTE : You wont have a Activation Code That will be Part 3. How to your Setup Xbox
+> NOTE : You wont have a Activation Code yet that will be Part 3. How to your Setup Xbox
 
 > NOTE : A pop up will appear if its your first time [Enter Activation Code] if no popup appears Select + Button that Says "Actions" and Click Enter Activation Code
 
-#### ---- 1. Select Actions Buttin or +
+#### ---- 1. Select Actions Button or + Button
 
 #### ---- 2. Select Enter Activation Code
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/1.%204.%20Action%20Method.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/4.%201.%202.%20Action%20Method.png">
 
 > NOTE : If your lost or cant find it here are the direct links
 
@@ -154,11 +154,11 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 https://aka.ms/activatexbox
 
 
-#### ---- 2. How to Get your Activation Code
+### -- 5. How to Get your Activation Code
 
 > NOTE : Example Below of Activation Code in Part 3. How to your Setup Xbox
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/2.%20How%20to%20Get%20your%20Activation%20Code.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/5.%20How%20to%20Get%20your%20Activation%20Code.png">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
