@@ -8,7 +8,6 @@
 3. How to your Setup Xbox
 4. Setting up your Computer
 5. Setting Up Project, Connecting Unity and Finishing
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -78,7 +77,7 @@
 
 > NOTE : Choose what best fits you. Dont think about this to much if your first starting!
 
-#### ---- 4. Fill out your personal information below
+#### ---- 4. Fill Out Your Personal Information Below
 
 #### ---- 5. Select Next
 
@@ -89,11 +88,15 @@
 
 ### -- 7. Registration - Payment
 
-#### ---- 1. Select Add A New Payment Method
+#### ---- 1. Select Add A New Payment Method in Billing
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/7.%20Registration%20-%20Payment%20-%20Select%20Add%20A%20New%20Payment%20Method.png">
 
-#### ---- 2. Fill out your Banking Information
+#### ---- 2. Fill Out Your Banking Information Below
+
+#### ---- 3. Agree to Payment
+
+#### ---- 4. Select Next
 
 
 ### -- 8. App Developer Aggrement
@@ -113,7 +116,6 @@
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/9.%20Dashboard.png">
 
-#### ---- 2. Keep the dashboard open for Part 2 - 2. Registering and Activating your Xbox Console
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
