@@ -381,6 +381,8 @@ https://aka.ms/activatexbox
 
 #### ---- 1. Download and Install the Installer
 
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%201.%20Windows%2010%20SDK.png">
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -389,32 +391,32 @@ https://aka.ms/activatexbox
 
 > NOTE : You are done the next step is the final step of creating a project using unity building and importing the project to your xbox and finishing.
 
-7. Open Unity Hub
-	A. New Project
-	B. Project Name [Name it the Game your Making or just "Xbox Game" or "Xbox App"]
-	C. Select 3D or 2D [I Choose "3D"]
-	D. Create Project
-8. Once Xbox Project is Done and Unity Opened 
-	A. Go to -File -Build Settings
-	B. Under Platform Select Universal Windows Platform
-	C. Select Switch Platforms
-	D. Once its Done Settings Should Be
-		I. Architecture [Intel 64 - Bit]
-		II.Build Type [D3D Project]
-		III.Build and Run on [Remote Machine]
-			-->[Local Machine] = Building the Game Opening the .sln file After Build File is Done which ill talk about later in the instructions Open .stl File Clean the File with Clean Solution, Create App Packages then Load your Xbox Console Dashboard and Import Files to Transfer Games Files into your Xbox.
-			-->[Remote Machine] = Setting this up you can launch the game stright from Unity or Visual Studio no need to do all the extra Steps but Will need to setup a few things. "Remote Access"
-			--> Everything i talked about above is in the nexts few steps i just tried to explain which route youll take.
-9. Once thats all set go into PLayer Settings in same window of Build Settings
-	A. Edit Company Name [Use any Type I Used "Tar Gaming"]
-	B. Product Name [Use any Type I Used "Good vs Bad"]
-	C. Go to Universal Windows Platform Settings Tab
-		I. Publishing Settings
-		II. Certificate
-		III. Create
-		IV. Publisher - [Use any Name I Used "Tar Gaming"] Dont Need Password Same Thing thats Your Prefrence This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
-		V. Select Create
-			--> For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testin
+1. Open Unity Hub
+1. New Project
+2. Project Name [Name it the Game your Making or just "Xbox Game" or "Xbox App"]
+3. Select 3D or 2D [I Choose "3D"]
+4. Create Project
+2. Once Xbox Project is Done and Unity Opened 
+1. Go to -File -Build Settings
+2. Under Platform Select Universal Windows Platform
+3. Select Switch Platforms
+4. Once its Done Settings Should Be
+A. Architecture [Intel 64 - Bit]
+B.Build Type [D3D Project]
+C.Build and Run on [Remote Machine]
+[Local Machine] = Building the Game Opening the .sln file After Build File is Done which ill talk about later in the instructions Open .stl File Clean the File with Clean Solution, Create App Packages then Load your Xbox Console Dashboard and Import Files to Transfer Games Files into your Xbox.
+[Remote Machine] = Setting this up you can launch the game stright from Unity or Visual Studio no need to do all the extra Steps but Will need to setup a few things. "Remote Access"
+Everything i talked about above is in the nexts few steps i just tried to explain which route youll take.
+3. Once thats all set go into PLayer Settings in same window of Build Settings
+1. Edit Company Name [Use any Type I Used "Tar Gaming"]
+2. Product Name [Use any Type I Used "Good vs Bad"]
+3. Go to Universal Windows Platform Settings Tab
+A. Publishing Settings
+B. Certificate
+C. Create
+D. Publisher - [Use any Name I Used "Tar Gaming"] Dont Need Password Same Thing thats Your Prefrence This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
+E. Select Create
+For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testin
 
    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
