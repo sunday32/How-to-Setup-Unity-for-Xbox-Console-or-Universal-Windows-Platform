@@ -379,7 +379,7 @@ https://aka.ms/activatexbox
 
 ### -- 4. Install Windows 10 SDK - https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 
-#### ---- 1. Download and Install the Installer
+#### ---- 1. Download the Installer and Install
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%201.%20Windows%2010%20SDK.png">
 
