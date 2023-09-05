@@ -303,53 +303,53 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%201.%20Installing%20Unity%20Download.png">
 
-> NOTE : Install Unity Hub and Continue
+#### ---- 2. Install Unity Hub and Continue
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%201.%20Installing%20Unity%20Hub.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%202.%20Installing%20Unity%20Hub.png">
 
-<img width="750" src=" ">
+#### ---- 3. Unity Hub
 
-#### ---- 2. Signup for Free - https://id.unity.com/account/new
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%203.%20Installed.png">
 
-> NOTE : Skip this step if you already have an account
+#### ---- 4. Signup for Free - https://id.unity.com/account/new
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%202.%20Unity.png">
+> NOTE : Skip steps 4 through 11 if you already have an account
 
-#### ---- 3. Create a Unity ID
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%204.%20Unity.png">
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%203.%20Create%20a%20Unity%20ID.png">
+#### ---- 5. Create a Unity ID
 
-#### ---- 4. Signup Page and Fillout Information
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%205.%20Create%20a%20Unity%20ID.png">
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%204.%20Signup%20Page%20and%20Fillout%20Information.png">
+#### ---- 6. Signup Page and Fillout Information
 
-#### ---- 5. Confirm Your Email
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%206.%20Signup%20Page%20and%20Fillout%20Information.png">
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%205.%20Confirm%20Your%20Email.png">
+#### ---- 7. Confirm Your Email
 
-#### ---- 6. Email Verfification
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%207.%20Confirm%20Your%20Email.png">
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%206.%20Email.jpg">
+#### ---- 8. Email Verification
 
-#### ---- 7. Need to Verify
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%208.%20Email.jpg">
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%207.%20Need%20to%20Verify.png">
+#### ---- 9. Need to Verify
 
-#### ---- 8. Signin
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%209.%20Need%20to%20Verify.png">
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%208.%20Signin.png">
+#### ---- 10. Signin
 
-#### ---- 9. Dashboard
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%2010.%20Signin.png">
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%209.%20Dashboard.png">
+#### ----11. Dashboard
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%2011.%20Dashboard.png">
 
 > NOTE : Once you signed up your ready to sign into Unity Hub
 
-#### ---- 10. Signin into Unity Hub
+#### ---- 12. Signin into Unity Hub
 
-> WARNING : Once You Sign In DO NOT LOG OUT!!! It will cause a login error until then treat it as if your having the same issue hopefully by the time your reading this Unity Fixes the Issue.
-
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%2010.%20Unity%20Hub%20Signin.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%2012.%20Unity%20Hub%20Signin.png">
 
 
 ### -- 3. Install Visual Studio Community 2017, 2019, 2022 or "Lastest Version"
@@ -374,13 +374,14 @@ https://visualstudio.microsoft.com/downloads/
 
 ### -- 4. 
 
+
 3. Install Visual Studio Community "Lastest Version"
 	--> https://visualstudio.microsoft.com/downloads/
 		A. Install Visual Studio Community
 		B. Workload or Packages 
 		C. Install Universal Windows Platform Development and Game Development with Unity
 
-
+### -- 5. 
 5. Visual Studio Remote Tools
 	--> https://visualstudio.microsoft.com/downloads/
 		A. Scroll Down to All Downloads
@@ -389,6 +390,8 @@ https://visualstudio.microsoft.com/downloads/
 		D. Download AMD64 or ARM64 and Check which one Installs for you.
 		E. If Lost use Link as Reference "Download and install the Remote Tools for Visual Studio"
 			--> https://learn.microsoft.com/en-us/visualstudio/debugger/run-windows-store-apps-on-a-remote-machine
+
+### -- 6. 
 6. Install Windows 10 SDK or Lastest if Changed.
 	--> https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 
@@ -398,7 +401,7 @@ https://visualstudio.microsoft.com/downloads/
 
 ## 5. Setting Up Project, Connecting Unity and Finishing
 
-#### ---- . You are done the next step is the final step of creating a project using unity to build and import the project to xbox testing it and finishing.
+> NOTE : You are done the next step is the final step of creating a project using unity to build and import the project to xbox testing it and finishing.
 
 7. Open Unity Hub
 	A. New Project
