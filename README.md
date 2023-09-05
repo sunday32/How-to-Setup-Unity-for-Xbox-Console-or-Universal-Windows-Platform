@@ -165,7 +165,6 @@ https://aka.ms/activatexbox
 
 ## 3. How to your Setup Xbox
 
-
 ### -- 1. Setting up your Xbox
 
 > WARNING - Console May Cause a Fail when First Switching over to Developer Mode and Reseting Console May Be Required!
@@ -227,7 +226,7 @@ https://aka.ms/activatexbox
 
 > EXAMPLE = WDRJ46
 
-### ---- 4. Entering Activation Code
+### -- 4. Entering Activation Code
 
 #### ---- 1. Back to Dashboard/Games and Apps/Xbox Development Consoles - Enter Activation Code
 
@@ -239,13 +238,13 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ------ A. Select Submit
 
-#### -- 5. Console Activated
+### -- 5. Console Activated
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%205.%20Console%20Activated.png">
 
 #### ---- 1. Select Switch and Restart
 
-#### -- 6. Console Added
+### -- 6. Console Added
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%206.%20Console%20Added.png">
 
@@ -264,7 +263,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%202.%20Remote%20Access.png">
 
-#### ---- 1. Select Set Username and Password and Create One
+#### ---- 3. Select Set Username and Password and Create One
 
 > NOTE : Do not forget this information we will need it to connect Unity or You will need to redo this step.
 
