@@ -345,6 +345,8 @@ https://aka.ms/activatexbox
 
 #### ---- 10. Signin into Unity Hub
 
+> WARNING : Once You Sign In DO NOT LOG OUT!!! It will cause a login error until then treat it as if your having the same issue hopefully by the time your reading this Unity Fixes the Issue.
+
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/2.%2010.%20Unity%20Hub%20Signin.png">
 
 
