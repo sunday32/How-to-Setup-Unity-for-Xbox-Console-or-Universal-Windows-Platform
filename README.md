@@ -377,19 +377,9 @@ https://aka.ms/activatexbox
 #### -------- B. Install Game Development with Unity
 
 
-### -- 4. 
-5. Visual Studio Remote Tools
-	--> https://visualstudio.microsoft.com/downloads/
-		A. Scroll Down to All Downloads
-		B. Tools for Visual Studio
-		C. Remote Tools for Visual Studio (Year)
-		D. Download AMD64 or ARM64 and Check which one Installs for you.
-		E. If Lost use Link as Reference "Download and install the Remote Tools for Visual Studio"
-			--> https://learn.microsoft.com/en-us/visualstudio/debugger/run-windows-store-apps-on-a-remote-machine
+### -- 4. Install Windows 10 SDK - https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 
-### -- 5+. 
-6. Install Windows 10 SDK or Lastest if Changed.
-	--> https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
+#### ---- 1. Download and Install the Installer
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -397,7 +387,7 @@ https://aka.ms/activatexbox
 
 ## 5. Setting Up Project, Connecting Unity and Finishing
 
-> NOTE : You are done the next step is the final step of creating a project using unity to build and import the project to xbox testing it and finishing.
+> NOTE : You are done the next step is the final step of creating a project using unity building and importing the project to your xbox and finishing.
 
 7. Open Unity Hub
 	A. New Project
