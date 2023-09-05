@@ -297,7 +297,7 @@ https://aka.ms/activatexbox
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/1.%206.%20Use%20Developer%20Features%20Select%20Yes.png">
 
 
-### -- 2. Install Unity Hub Install Any "Official Release" - https://unity.com/
+### -- 2. Installing Unity Hub "Any Official Release" - https://unity.com/
 
 #### ---- 1. Download for Windows or Your Operating System 
 
