@@ -392,17 +392,13 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 ## -- 1. Getting Started
 
-#### ---- 1. Open Unity Hub
+#### ---- 1. Open Unity Hub and Select New Project
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%201.%20Open%20Unity%20Hub.png">
 
-#### ---- 2. Select New Project
+#### ---- 2. Project Name [Name it the Game your Making or just "Xbox Project"] and Select 3D or 2D [I Choose "3D"]
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%202.%20Create%20A%20Project.png">
-
-#### ------ A. Project Name [Name it the Game your Making or just "Xbox Project"] and Select 3D or 2D [I Choose "3D"]
-
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%203.%20Opening%20Project.png">
 
 #### ---- 3. Open Project
 
