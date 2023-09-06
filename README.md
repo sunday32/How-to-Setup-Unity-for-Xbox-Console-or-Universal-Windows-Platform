@@ -438,7 +438,7 @@ B. Certificate
 C. Create
 D. Publisher - [Use any Name I Used "Tar Gaming"] Dont Need Password Same Thing thats Your Prefrence This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
 E. Select Create
-For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testin
+For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testing
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
