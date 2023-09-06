@@ -423,25 +423,27 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%203.%20Build%20Settings%20-%20Add%20Open%20Scene.png">
 
-#### ---- 4. Under Platform Select Universal Windows Platform
+#### ---- 4. Under Platform Select Universal Windows Platform and Select Switch Platforms
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%204.%20Switching%20Platforms.png">
 
-#### ---- 5. Select Switch Platforms
+#### ---- 5. Inside Universal Windows Platform
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%205.%20Universal%20Windows%20Platform.png">
 
-#### ---- 6. 
+> NOTE : Make Sure Your Settings Are Similar
+
+#### ------ A. Architecture [Intel 64 - Bit]
+
+#### ------ B. Build Type [D3D Project]
+
+#### ------ C. Build and Run on from [Local Machine] to [Remote Device]
+
+> NOTE : [Local Machine] = Building the Game Opening the .sln file inside Build File, Clean the File with Clean Solution, Create App Packages Following Steps then Loading your Xbox Console Dashboard and Import Files to Transfer Games Files into your Xbox simple but longer process!
+> 
+> NOTE : [Remote Device] = Easier!!
 
 
-4. Once its Done Settings Should Be
-A. Architecture [Intel 64 - Bit]
-B.Build Type [D3D Project]
-C.Build and Run on [Remote Machine]
-[Local Machine] = Building the Game Opening the .sln file After Build File is Done which ill talk about later in the instructions Open .stl File Clean the File with Clean Solution, Create App Packages then Load your Xbox Console Dashboard and Import Files to Transfer Games Files into your Xbox.
-[Remote Machine] = Setting this up you can launch the game stright from Unity or Visual Studio no need to do all the extra Steps but Will need to setup a few things. "Remote Access"
-Everything i talked about above is in the nexts few steps i just tried to explain which route youll take.
-3. Once thats all set go into PLayer Settings in same window of Build Settings
 1. Edit Company Name [Use any Type I Used "Tar Gaming"]
 2. Product Name [Use any Type I Used "Good vs Bad"]
 3. Go to Universal Windows Platform Settings Tab
