@@ -400,7 +400,9 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%202.%20Create%20A%20Project.png">
 
-#### ---- 3. Open Project
+#### ------ A. Select Create Project
+
+#### ---- 3. Project Opening
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%203.%20Opening%20Project.png">
 
