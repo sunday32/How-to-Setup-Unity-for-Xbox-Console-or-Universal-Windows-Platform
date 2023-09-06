@@ -1,6 +1,6 @@
 <img width="1000" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/Unity%20X%20Xbox/1.%20Unity%20x%20Xbox.png">
 
-> NOTE : STILL UNDER DEVELOPMENT HELP WANTED IF SPELLING OR ERROR LNK!
+> NOTE : STILL UNDER DEVELOPMENT IF ERROR OR MISSPELLING MESSAGE ME ON REDDIT - https://www.reddit.com/user/Doit3232
 
 # How to Setup Unity for Xbox Console or Universal Windows Platform
 
