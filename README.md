@@ -447,14 +447,15 @@ For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testi
 
 Link Coming Soon - https://github.com/sunday32/
 
-#### How to Setup Xbox Project Main Menu, Pause Menu and Settings
+#### How to Setup Xbox Project Main Menu, Pause Menu, Menu Buttons Layout and Settings
 
 Link Coming Soon - https://github.com/sunday32/
 
-#### How to Setup Xbox Project Extras 
+#### How to Setup Xbox Mutiplayer, Lobby, Host Game, Chat Messaging, Voice Chat, and Friends
 
 Link Coming Soon - https://github.com/sunday32/
 
+More!!!
 
 ## Tools I Use for Game Development
 
