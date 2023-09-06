@@ -394,34 +394,48 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ---- 1. Open Unity Hub
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%20Unity.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%201.%20Open%20Unity%20Hub.png">
+
+#### ---- 2. Select New Project
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%202.%20Create%20A%20Project.png">
+
+#### ------ A. Project Name [Name it the Game your Making or just "Xbox Project"] and Select 3D or 2D [I Choose "3D"]
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%203.%20Opening%20Project.png">
+
+#### ---- 3. Open Project
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%203.%20Opening%20Project.png">
 
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%20File%20-%20Build%20Settings.png">
+## -- 2. Unity Engine
 
-<img width="750" src="">
+#### ---- 1. Unity Opened
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%201.%20Unity.png">
 
-<img width="750" src="">
+> NOTE : Inside Scenes Folder I Renamed My Scene to MainMenu and Saved Scene!
 
-<img width="750" src="">
+#### ---- 2. Go to File Select Build Settings
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%202.%20File%20-%20Build%20Settings.png">
 
-<img width="750" src="">
-<img width="750" src="">
-<img width="750" src="">
-<img width="750" src="">
+#### ---- 3. Inside Build Settings Select Add Open Scenes [Scene Should Be Added] 
 
-1. New Project
-2. Project Name [Name it the Game your Making or just "Xbox Game" or "Xbox App"]
-3. Select 3D or 2D [I Choose "3D"]
-4. Create Project
-2. Once Xbox Project is Done and Unity Opened 
-1. Go to -File -Build Settings
-2. Under Platform Select Universal Windows Platform
-3. Select Switch Platforms
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%203.%20Build%20Settings%20-%20Add%20Open%20Scene.png">
+
+#### ---- 4. Under Platform Select Universal Windows Platform
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%204.%20Switching%20Platforms.png">
+
+#### ---- 5. Select Switch Platforms
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%205.%20Universal%20Windows%20Platform.png">
+
+#### ---- 6. 
+
+
 4. Once its Done Settings Should Be
 A. Architecture [Intel 64 - Bit]
 B.Build Type [D3D Project]
