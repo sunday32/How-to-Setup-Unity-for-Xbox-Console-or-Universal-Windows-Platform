@@ -16,7 +16,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 1. Get Your License First
+# 1. Get Your License First
 
 > NOTE : Process takes about 10 - 45 minute to setup depending.
 
@@ -25,20 +25,21 @@
 > IMPORTANT : Why is this membership needed it gives you Developer Privilege to Xbox and Lets you upload your [UWP] Universal Windows Platform, Game, App, on the Microsoft Store or Xbox Store.
 
 
-### -- 1. Getting your Microsoft Partner Center Account - https://www.xbox.com/en-US/publish
+## -- 1. Getting your Microsoft Partner Center Account - https://www.xbox.com/en-US/publish
 
 
-### -- 2. Microsoft Partner Center
+## -- 2. Microsoft Partner Center
 	
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/2.%20Visiting%20Xbox%20Registration%20Site.png">
 
 
-### -- 3. Selecting Membership Type
+## -- 3. Selecting Membership Type
+
 > NOTE : There will be 2 Types of Membership Types ID@XBOX or Creator Program
 	
 > NOTE : Today will be using Creator Program
 
-#### ---- 1. Select "Creator Program"
+#### ---- 1. Select Creator Program
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%201.%20Selecting%20Membership%20Type%20-%20ID%40XBOX%20Account.png">
 
@@ -51,7 +52,7 @@
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/3.%203.%20Registering%20Account.png"> 
 
 
-### -- 4. Login - https://partner.microsoft.com/dashboard/registration
+## -- 4. Login - https://partner.microsoft.com/dashboard/registration
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/4.%20Login.png">
 
@@ -59,14 +60,14 @@
 ### or
 
 
-### -- 5.  Create Account - https://partner.microsoft.com/dashboard/registration
+## -- 5.  Create Account - https://partner.microsoft.com/dashboard/registration
 
 #### ---- 1. Select "No account? Create one!"
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/5.%20Create%20Account.png">
 
 
-### -- 6. Registration - Account Info - Account Type
+## -- 6. Registration - Account Info - Account Type
 
 #### ---- 1. Once you Login You Will Have To Setup Your Account - Country and Account Type
 
@@ -91,7 +92,7 @@
 #### ---- 6. Resignin or If nothing happened Continue to Next Step
 
 
-### -- 7. Registration - Payment
+## -- 7. Registration - Payment
 
 #### ---- 1. Select Add A New Payment Method in Billing
 
@@ -104,7 +105,7 @@
 #### ---- 4. Select Next
 
 
-### -- 8. App Developer Aggrement
+## -- 8. App Developer Aggrement
 
 #### ---- 1. Select Finish
 
@@ -115,28 +116,26 @@
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/8.%20B.%20Registration%20-%20Payment%20-%20Complete.png">
 
 
-### -- 9. Dashboard : https://partner.microsoft.com/en-us/dashboard/home
+## -- 9. Dashboard : https://partner.microsoft.com/en-us/dashboard/home
 
 #### ---- 1. Once you are done you will see your dashboard
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/1.%20Get%20your%20License%20First/9.%20Dashboard.png">
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 2. Registering and Activating your Xbox Console 
 
-## 2. Registering and Activating your Xbox Console 
+## -- 1. Visit your Dashboard - https://partner.microsoft.com/en-us/dashboard/home
 
-### -- 1. Visit your Dashboard - https://partner.microsoft.com/en-us/dashboard/home
-
-### -- 2. Select Apps and Games
+## -- 2. Select Apps and Games
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/2.%20Select%20Apps%20and%20Games.png">
 
-### -- 3. Select Xbox Development Console
+## -- 3. Select Xbox Development Console
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/3.%20Select%20Xbox%20Development%20Console.png">
 
-### -- 4. Enter Activation Code Popup
+## -- 4. Enter Activation Code Popup
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/4.%20Enter%20Activation%20Code%20Popup.png">
 
@@ -159,18 +158,16 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 https://aka.ms/activatexbox
 
 
-### -- 5. How to Get your Activation Code
+## -- 5. How to Get your Activation Code
 
 > NOTE : Example Below of Activation Code in Part 3. How to your Setup Xbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/5.%20How%20to%20Get%20your%20Activation%20Code.png">
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## 3. How to your Setup Xbox
 
-### -- 1. Setting up your Xbox
+## -- 1. Setting up your Xbox
 
 > WARNING - Console May Cause a Fail when First Switching over to Developer Mode and Reseting Console May Be Required!
 
@@ -183,7 +180,7 @@ https://aka.ms/activatexbox
 > NOTE - You will have to sign in twice once in Retail Mode and once in Developer Mode and any Account can be used in Testing Mode
 
 
-### -- 2. Downloading The App
+## -- 2. Downloading The App
 
 #### ---- 1. From Home
 
@@ -209,7 +206,7 @@ https://aka.ms/activatexbox
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/2.%206.%20Launching%20App.png">
 
 
-### -- 3. Inside the Developer App
+## -- 3. Inside the Developer App
 
 #### ---- 1. Welcome Screen
 
@@ -231,7 +228,7 @@ https://aka.ms/activatexbox
 
 > EXAMPLE = WDRJ46
 
-### -- 4. Entering Activation Code
+## -- 4. Entering Activation Code
 
 #### ---- 1. Back to Dashboard/Games and Apps/Xbox Development Consoles - Enter Activation Code
 
@@ -243,11 +240,11 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ------ A. Select Submit
 
-### -- 5. Console Activated
-
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%205.%20Console%20Activated.png">
+## -- 5. Console Activated
 
 #### ---- 1. Select Switch and Restart
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%205.%20Console%20Activated.png">
 
 ### -- 6. Console Added
 
@@ -256,7 +253,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 > NOTE : Once you have successfully added the xbox you will only be using your Dashboard to either add more consoles for testing or uploading your finished project for the public.
 
 
-### -- 4. Setting up Remote Access
+## -- 4. Setting up Remote Access
 
 #### ---- 1. Developer Screen
 
@@ -274,12 +271,10 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/4.%201.%20Developer%20Screen.jpg">
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 4. Setting up your Computer
 
-## 4. Setting up your Computer
-
-### -- 1. Enabling Developer Mode
+## -- 1. Enabling Developer Mode
 
 #### ---- 1. Select Start Menu
 
@@ -304,7 +299,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/1.%206.%20Use%20Developer%20Features%20Select%20Yes.png">
 
 
-### -- 2. Installing Unity Hub "Any Official Release" - https://unity.com/
+## -- 2. Installing Unity Hub "Any Official Release" - https://unity.com/
 
 #### ---- 1. Download for Windows or Your Operating System 
 
@@ -361,7 +356,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 > NOTE : If your having issue signing or unity hub not letting you sign in unity may be under maintenance error "internal server error" or "something went wrong" dont worry just wait a couple hours and try agian.
 
 
-### -- 3. Install Visual Studio Community 2017, 2019, 2022 or "Lastest Version"
+## -- 3. Install Visual Studio Community 2017, 2019, 2022 or "Lastest Version"
 
 #### ---- 1. Visual Studio Community - https://visualstudio.microsoft.com/downloads/
 
@@ -384,21 +379,41 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 #### -------- B. Install Game Development with Unity
 
 
-### -- 4. Install Windows 10 SDK - https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
+## -- 4. Install Windows 10 SDK - https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
 
 #### ---- 1. Download the Installer and Install
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/4.%20Setting%20up%20your%20Computer/4.%201.%20Windows%2010%20SDK.png">
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 5. Setting Up Project, Connecting Unity and Finishing
+
+> NOTE : You are almost done this is the final steps
+
+## -- 1. Getting Started
+
+#### ---- 1. Open Unity Hub
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%20Unity.png">
 
 
-## 5. Setting Up Project, Connecting Unity and Finishing
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%20File%20-%20Build%20Settings.png">
 
-> NOTE : You are done the next step is the final step of creating a project using unity building and importing the project to your xbox and finishing.
+<img width="750" src="">
 
-1. Open Unity Hub
+<img width="750" src="">
+
+<img width="750" src="">
+
+<img width="750" src="">
+
+<img width="750" src="">
+
+<img width="750" src="">
+<img width="750" src="">
+<img width="750" src="">
+<img width="750" src="">
+
 1. New Project
 2. Project Name [Name it the Game your Making or just "Xbox Game" or "Xbox App"]
 3. Select 3D or 2D [I Choose "3D"]
