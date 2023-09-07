@@ -561,14 +561,69 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ---- 4. Saving Build
 
-
-
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/4.%204.%20Saving%20Build%20in%20Folder.png">
+
+#### ------ A. I Saved my File In My Documents Created Xbox Project File
+
+#### ---- 5. Unity Connecting to Xbox
+
+> NOTE : This may take a while from 1 min to 10 mins depanding on your computer
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/4.%205.%20Unity%20Connecting%20to%20Xbox.png">
+
+#### ---- 6. Unity Successfully Imported Game File to Xbox
+
+> NOTE : Once Window Says "Running" Check Your Xbox 
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/4.%206.%20Running.png">
+
+
+## -- 5. Game Loaded on Xbox
+
+#### ---- 1. Game Running on Xbox
+
+> IMPORTANT : Game will try to run on its own back out or close game back to Developer Screen
+
+<img width="750" src="">
+
+> NOTE : Close or Back Out App
+
+<img width="750" src="">
+
+#### ---- 2. Press View button on App "Left Side Button From Xbox Home Button" Menu Should Open
+
+<img width="750" src="">
+
+#### ------ A. Select View Details
+
+#### ---- 3. Changing App to Game
+
+> IMPORTANT : Make Sure to Change App to Game to Let Your Game Use the Xbox Best Performance or Game Will Lag
+
+<img width="750" src="">
+
+#### ---- 4. Start the Game
+
+<img width="750" src="">
+
+#### ---- 5. Your Splash Screen
+
+<img width="750" src="">
+
+#### ---- 6. Unity Splash Screen
+
+<img width="750" src="">
+
+#### ---- 7. All Done
+
+<img width="750" src="">
+
+> FINAL MESSAGE : Once your done this is everything you will need to launch your xbox game using unity engine if you would like to set up more additional links below will be working on them pretty soon!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#### How to Setup Xbox Project Icons
+#### How to Setup Xbox Project Splash Screen and Icons
 
 Link Coming Soon - https://github.com/sunday32/
 
