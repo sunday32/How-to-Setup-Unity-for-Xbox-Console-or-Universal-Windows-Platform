@@ -1,6 +1,5 @@
 <img width="1000" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/Unity%20X%20Xbox/1.%20Unity%20x%20Xbox.png">
 
-> NOTE : STILL UNDER DEVELOPMENT IF ERROR OR MISSPELLING MESSAGE ME ON REDDIT - https://www.reddit.com/user/Doit3232
 
 # How to Setup Unity for Xbox Console or Universal Windows Platform
 
@@ -627,7 +626,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### How to Setup Xbox Project Splash Screen and Icons
 
-Link Coming Soon - https://github.com/sunday32/
+https://github.com/sunday32/](https://github.com/sunday32/How-to-Setup-Xbox-Project-Splash-Screen-and-Icons/
 
 #### How to Setup Xbox Project Main Menu, Pause Menu, Menu Buttons Layout and Settings
 
