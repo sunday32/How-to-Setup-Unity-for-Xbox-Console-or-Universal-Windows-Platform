@@ -443,6 +443,8 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ------ 1. Switch to [Remote Device]
 
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%206.%20Local%20Machine%20-%20Remote%20Machine.png">
+
 > NOTE : [Local Machine] = Building the Game Opening the .sln file inside the Build File with Visual Studio, Clean the File with Clean Solution, Create App Packages Following Steps then opening your Xbox Local Dashboard and Import Games Files into your Xbox simple but longer process!
 
 > NOTE : [Remote Device] = Easier!!
@@ -472,6 +474,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%209.%20User%20Information.png">
 
 
+## -- 3. 
 
 
 
