@@ -584,7 +584,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 > IMPORTANT : Game will try to run on its own back out or close game back to Developer Screen
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/5.%20%201.%20Game%20Running%20on%20Xbox.jpg">
 
 > NOTE : Close or Back Out App
 
@@ -592,7 +592,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ---- 2. Press View button on App "Left Side Button From Xbox Home Button" Menu Should Open
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/5.%202.%20Press%20View%20button.jpg">
 
 #### ------ A. Select View Details
 
@@ -600,25 +600,25 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 > IMPORTANT : Make Sure to Change App to Game to Let Your Game Use the Xbox Best Performance or Game Will Lag
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/5.%203.%20Changing%20App%20to%20Game.jpg">
 
 #### ---- 4. Start the Game
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/5.%204.%20Start%20the%20Game.jpg">
 
 #### ---- 5. Your Splash Screen
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/5.%205.%20Your%20SplashSreen.jpg">
 
 #### ---- 6. Unity Splash Screen
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/5.%206.%20Unity%20SplashScreen.jpg">
 
 #### ---- 7. All Done
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/5.%207.%20Done.jpg">
 
-> FINAL MESSAGE : Once your done this is everything you will need to launch your xbox game using unity engine if you would like to set up more additional links below will be working on them pretty soon!
+> FINAL MESSAGE : Once you are done this is everything you will need to launch your xbox game using unity engine if you would like to set up more additional links below i will be working on them pretty soon!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -635,7 +635,6 @@ Link Coming Soon - https://github.com/sunday32/
 
 Link Coming Soon - https://github.com/sunday32/
 
-More!!!
 
 ## Tools I Use for Game Development
 
