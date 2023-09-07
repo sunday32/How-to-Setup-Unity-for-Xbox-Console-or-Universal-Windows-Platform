@@ -392,7 +392,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 > NOTE : You are almost done this is the final steps
 
-## -- 1. Getting Started
+## -- 1. Getting Project Started
 
 #### ---- 1. Open Unity Hub and Select New Project
 
@@ -409,7 +409,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/1.%203.%20Opening%20Project.png">
 
 
-## -- 2. Unity Engine
+## -- 2. Setting Up Build Settings
 
 #### ---- 1. Unity Opened
 
@@ -474,7 +474,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%209.%20User%20Information.png">
 
 
-## -- 3. 
+## -- 3. Setting Up Project Settings
 
 
 
