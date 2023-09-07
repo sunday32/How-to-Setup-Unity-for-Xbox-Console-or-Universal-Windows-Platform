@@ -451,7 +451,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ---- 7. Inputing User Information
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%207%20Inputing%20User%20Information.png">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%207%20Inputting%20User%20Information.png">
 
 #### ------ A. Device Portal Address
 
@@ -476,6 +476,9 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 ## -- 3. Setting Up Project Settings
 
+#### ---- 1. Select Player Settings Inside Build Settings
+
+<img width="750" src="">
 
 
 1. Edit Company Name [Use any Type I Used "Tar Gaming"]
