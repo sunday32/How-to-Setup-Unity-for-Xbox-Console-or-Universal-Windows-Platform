@@ -588,7 +588,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 > NOTE : Close or Back Out App
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/5.%205.%20Your%20SplashSreen.jpg">
 
 #### ---- 2. Press View button on App "Left Side Button From Xbox Home Button" Menu Should Open
 
