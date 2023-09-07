@@ -441,7 +441,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ---- 6. Build and Run on from [Local Machine] to [Remote Device]
 
-#### ------ 1. Switch to [Remote Device]
+#### ------ A. Switch to [Remote Device]
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%206.%20Local%20Machine%20-%20Remote%20Machine.png">
 
@@ -478,18 +478,64 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ---- 1. Select Player Settings Inside Build Settings
 
-<img width="750" src="">
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/3.%201.%20Select%20Player%20Settings%20Inside%20Build%20Settings.png">
+
+#### ---- 2. Select Player
+
+#### ------ A. Edit Company Name [Use any Type I Used "Tar Gaming"]
+
+#### ------ B. Product Name [Use any Type I Used "Xbox Project"]
+
+#### ------ C. Version [I Used "1"]
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/3.%202.%20Select%20Player.png">
+
+#### ---- 3. Select Settings for Universal Windows Platform Settings Tab
+
+#### ------ A. Scroll Down to Publishing Settings
+
+#### ------ B. Certificate
+
+#### ------ C. Select Create
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/3.%203.%20Select%20Settings%20for%20Universal%20Windows%20Platform%20Settings%20Tab.png">
+
+#### ---- 4. Create Test Certificate for Windows Store
+
+> NOTE : [Use any Name I Used "Tar Gaming"] Dont Need Password but thats Your Prefrence This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
+
+#### ------ A. Publisher
+
+#### ------ B. Password
+
+#### ------ C. Comfirm Password
+
+#### ------ D. Select Create
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/3.%204.%20Create%20Test%20Certificate%20for%20Windows%20Store.png">
+
+#### ---- 5. Certificate Created Successfully if You See This Below
+
+> NOTE : Keep in mind Certificate only Last 1 Year
+
+#### ------ A. Publisher [Use any Name I Used "Tar Gaming"]
+
+#### ------ B. Issued by [Use any Name I Used "Tar Gaming"]
+
+#### ------ C. Expiration Date XX/XX/XXXX
+
+#### ------ D. WSATestCertificate.pfx
+
+#### ------ E. Exit Project Settings
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/3.%205.%20Certificate%20Created%20Successfully%20if%20You%20See%20This%20Below.png">
+
+#### ---- 6. 
 
 
-1. Edit Company Name [Use any Type I Used "Tar Gaming"]
-2. Product Name [Use any Type I Used "Good vs Bad"]
-3. Go to Universal Windows Platform Settings Tab
-A. Publishing Settings
-B. Certificate
-C. Create
-D. Publisher - [Use any Name I Used "Tar Gaming"] Dont Need Password Same Thing thats Your Prefrence This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
-E. Select Create
-For Game Icons I Will Make A Seperate Forum Linked Below Dont Need any for Testing
+
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
