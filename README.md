@@ -431,23 +431,23 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ---- 5. Inside Universal Windows Platform
 
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%205.%20Universal%20Windows%20Platform.png">
+
 > NOTE : Make Sure Your Settings Are Similar
 
 #### ------ A. Architecture [Intel 64 - Bit]
 
 #### ------ B. Build Type [D3D Project]
 
-<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%205.%20Universal%20Windows%20Platform.png">
-
 #### ---- 6. Build and Run on from [Local Machine] to [Remote Device]
-
-> NOTE : [Local Machine] = Building the Game Opening the .sln file inside the Build File with Visual Studio, Clean the File with Clean Solution, Create App Packages Following Steps then opening your Xbox Local Dashboard and Import Games Files into your Xbox simple but longer process!
-
-> NOTE : [Remote Device] = Easier!!
 
 #### ------ A. Switch to [Remote Device]
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%206.%20Local%20Machine%20-%20Remote%20Machine.png">
+
+> NOTE : [Local Machine] = Building the Game Opening the .sln file inside the Build File with Visual Studio, Clean the File with Clean Solution, Create App Packages Following Steps then opening your Xbox Local Dashboard and Import Games Files into your Xbox simple but longer process!
+
+> NOTE : [Remote Device] = Easier!!
 
 #### ---- 7. Inputing User Information
 
