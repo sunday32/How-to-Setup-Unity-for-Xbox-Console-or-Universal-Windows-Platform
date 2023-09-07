@@ -463,7 +463,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 > NOTE : Device Portal Password Your Password
 
-#### ---- 8. Remote Access Example -- 4. Setting up Remote Access or Image Below
+#### ---- 8. Remote Access Example or Example on > 3. How to your Setup Xbox -- 4. Setting up Remote Access
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%208.%20Information%20Located%20in%20Remote%20Access.jpg">
 
