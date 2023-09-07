@@ -167,7 +167,7 @@ https://aka.ms/activatexbox
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/2.%20Registering%20and%20Activating%20your%20Xbox%20Console/5.%20How%20to%20Get%20your%20Activation%20Code.png">
 
 
-## 3. How to your Setup Xbox
+# 3. How to your Setup Xbox
 
 ## -- 1. Setting up your Xbox
 
@@ -226,7 +226,7 @@ https://aka.ms/activatexbox
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%203.%20Activation%20Code%20-%20Xbox.png">
 
-#### ---- 1. From this screen youll be given a unique code [XXXXXX] code called Activation Code
+#### ------ A. From this screen youll be given a unique code [XXXXXX] code called Activation Code
 
 > EXAMPLE = WDRJ46
 
@@ -248,7 +248,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%205.%20Console%20Activated.png">
 
-### -- 6. Console Added
+## -- 6. Console Added
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/3.%20How%20to%20your%20Setup%20Xbox/3.%206.%20Console%20Added.png">
 
@@ -528,16 +528,42 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ------ D. WSATestCertificate.pfx
 
-#### ------ E. Exit Project Settings
-
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/3.%205.%20Certificate%20Created%20Successfully%20if%20You%20See%20This%20Below.png">
 
-#### ---- 6. 
+#### ------ E. Exit Project Settings
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%201.%20Unity.png">
+
+
+## -- 4. Setup Simple Game Project
+
+#### ---- 1. Setup A Simple Menu to Test on the Xbox
+
+> NOTE : I want ahead and setup a simple canvas changed camera name and camera settings clear flags to solid color #202020 and added a text Hello World!
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/4.%201.%20Setup%20Simple%20Game%20Project.png">
+
+#### ------ A. Save Project
+
+#### ---- 2. Open File and Select Build Settings
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/4.%202.%20File%20-%20Build%20Settings.png">
+
+#### ---- 3. Final Build Settings Check
+
+#### ------ A. Make Sure The Scene You Created is Added to Scenes In Build
+
+#### ------ B. Make Sure Device Portal Information Is Still Filled In
+
+#### ------ C. Select Build and Run
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/4.%203.%20Build%20Settings%20-%20Make%20Sure%20Add%20Open%20Scene.png">
+
+#### ---- 4. Saving Build
 
 
 
-
-
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/4.%204.%20Saving%20Build%20in%20Folder.png">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
