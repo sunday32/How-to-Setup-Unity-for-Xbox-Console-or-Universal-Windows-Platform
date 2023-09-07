@@ -447,7 +447,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 > NOTE : [Local Machine] = Building the Game Opening the .sln file inside the Build File with Visual Studio, Clean the File with Clean Solution, Create App Packages Following Steps then opening your Xbox Local Dashboard and Import Games Files into your Xbox simple but longer process!
 
-> NOTE : [Remote Device] = Easier!!
+> NOTE : [Remote Device] = 1 Click Build and Run lol Meaning Easier then Local Machine!
 
 #### ---- 7. Inputing User Information
 
@@ -455,23 +455,25 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ------ A. Device Portal Address
 
-> NOTE : Device Portal Address is the IP Address on your console Developer Screen = Example - https://192.168.1.59:11443
+> NOTE : Device Portal Address is the IP Address on your console Developer Screen or Remote Access Screen = Example - https://192.168.1.59:11443
 
 #### ------ B. Device Portal Username
 
-> NOTE : Device Portal Username = Example - Doit
+> NOTE : Device Portal Username = Example - Username You Created in Remote Access
 
 #### ------ C. Device Portal Password
 
-> NOTE : Device Portal Password Your Password
+> NOTE : Device Portal Password = Example - Password You Created in Remote Access
 
-#### ---- 8. Remote Access Example or Example on > 3. How to your Setup Xbox -- 4. Setting up Remote Access
+#### ---- 8. Remote Access Example or Example can be Found on > 3. How to your Setup Xbox -- 4. Setting up Remote Access
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%208.%20Information%20Located%20in%20Remote%20Access.jpg">
 
 #### ---- 9. User Information 
 
 <img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%209.%20User%20Information.png">
+
+> NOTE : The Device Portal Address, Device Portal Username and Device Portal Password information is only required everytime you relaunch unity!
 
 
 ## -- 3. Setting Up Project Settings
