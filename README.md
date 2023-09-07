@@ -626,7 +626,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### How to Setup Xbox Project Splash Screen and Icons
 
-https://github.com/sunday32/](https://github.com/sunday32/How-to-Setup-Xbox-Project-Splash-Screen-and-Icons/
+https://github.com/sunday32/How-to-Setup-Xbox-Project-Splash-Screen-and-Icons/
 
 #### How to Setup Xbox Project Main Menu, Pause Menu, Menu Buttons Layout and Settings
 
