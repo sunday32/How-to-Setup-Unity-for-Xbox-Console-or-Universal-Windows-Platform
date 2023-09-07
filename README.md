@@ -504,7 +504,7 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ---- 4. Create Test Certificate for Windows Store
 
-> NOTE : [Use any Name I Used "Tar Gaming"] Dont Need Password but thats Your Prefrence This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
+> NOTE : [Use any Name I Used "Tar Gaming"] Dont Need Password but thats Your Preference This is For Testing For Sure Make a Serious Version When Actually Publishing your Game :)
 
 #### ------ A. Publisher
 
