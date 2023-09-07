@@ -439,11 +439,40 @@ https://partner.microsoft.com/en-us/xboxconfig/devices/index
 
 #### ------ B. Build Type [D3D Project]
 
-#### ------ C. Build and Run on from [Local Machine] to [Remote Device]
+#### ---- 6. Build and Run on from [Local Machine] to [Remote Device]
 
-> NOTE : [Local Machine] = Building the Game Opening the .sln file inside Build File, Clean the File with Clean Solution, Create App Packages Following Steps then Loading your Xbox Console Dashboard and Import Files to Transfer Games Files into your Xbox simple but longer process!
-> 
+#### ------ 1. Switch to [Remote Device]
+
+> NOTE : [Local Machine] = Building the Game Opening the .sln file inside the Build File with Visual Studio, Clean the File with Clean Solution, Create App Packages Following Steps then opening your Xbox Local Dashboard and Import Games Files into your Xbox simple but longer process!
+
 > NOTE : [Remote Device] = Easier!!
+
+#### ---- 7. Inputing User Information
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%207%20Inputing%20User%20Information.png">
+
+#### ------ A. Device Portal Address
+
+> NOTE : Device Portal Address is the IP Address on your console Developer Screen = Example - https://192.168.1.59:11443
+
+#### ------ B. Device Portal Username
+
+> NOTE : Device Portal Username = Example - Doit
+
+#### ------ C. Device Portal Password
+
+> NOTE : Device Portal Password Your Password
+
+#### ---- 8. Remote Access Example -- 4. Setting up Remote Access or Image Below
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%208.%20Information%20Located%20in%20Remote%20Access.jpg">
+
+#### ---- 9. User Information 
+
+<img width="750" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/2.%209.%20User%20Information.png">
+
+
+
 
 
 1. Edit Company Name [Use any Type I Used "Tar Gaming"]
