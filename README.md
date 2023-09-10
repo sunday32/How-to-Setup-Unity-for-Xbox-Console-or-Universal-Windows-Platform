@@ -634,7 +634,7 @@ https://github.com/sunday32/How-to-Setup-Xbox-Project-Splash-Screen-and-Icons/
 
 Link Coming Soon - https://github.com/sunday32/
 
-#### How to Setup Xbox Mutiplayer, Lobby, Host Game, Chat Messaging, Voice Chat, and Friends
+#### How to Setup Xbox Project Mutiplayer, Lobby, Host Game, Chat Messaging, Voice Chat, and Friends
 
 Link Coming Soon - https://github.com/sunday32/
 
